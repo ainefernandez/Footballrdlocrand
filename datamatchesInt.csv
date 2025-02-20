@@ -1,0 +1,859 @@
+competition,season,match_id,kick_off,team,goals_scored,goals_conceded,competition_stage,goal_difference,winner,goals_scored_HT,goals_conceded_HT,Advantage_HT,Stoppage_Time_Goals_HT,Losing_HT,Stoppage_Time_Goals,Goals_Scored_Midfielders,Goals_Scored_Forwards,Goals_Scored_Defenders,Goals_Scored_Goalkeepers
+International - FIFA World Cup,2018,7525,17:00:00.000,Saudi Arabia,0,5,Group Stage,-5,0,0,2,-2,0,1,0,0,0,0,0
+International - FIFA World Cup,2018,7525,17:00:00.000,Russia,5,0,Group Stage,5,1,2,0,2,0,0,2,2,1,0,0
+International - FIFA World Cup,2018,7529,21:00:00.000,Croatia,2,0,Group Stage,2,1,0,0,0,0,0,0,1,0,0,0
+International - FIFA World Cup,2018,7529,21:00:00.000,Nigeria,0,2,Group Stage,-2,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2018,7530,12:00:00.000,France,2,1,Group Stage,1,1,0,0,0,0,0,0,0,1,0,0
+International - FIFA World Cup,2018,7530,12:00:00.000,Australia,1,2,Group Stage,-1,0,0,0,0,0,0,0,1,0,0,0
+International - FIFA World Cup,2018,7531,15:00:00.000,Argentina,1,1,Group Stage,0,0,1,1,0,0,0,0,0,1,0,0
+International - FIFA World Cup,2018,7531,15:00:00.000,Iceland,1,1,Group Stage,0,0,1,1,0,0,0,0,0,1,0,0
+International - FIFA World Cup,2018,7532,18:00:00.000,Denmark,1,0,Group Stage,1,1,0,0,0,0,0,0,0,1,0,0
+International - FIFA World Cup,2018,7532,18:00:00.000,Peru,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2018,7533,20:00:00.000,Switzerland,1,1,Group Stage,0,0,0,1,-1,0,1,0,0,1,0,0
+International - FIFA World Cup,2018,7533,20:00:00.000,Brazil,1,1,Group Stage,0,0,1,0,1,0,0,0,1,0,0,0
+International - FIFA World Cup,2018,7534,17:00:00.000,Germany,0,1,Group Stage,-1,0,0,1,-1,0,1,0,0,0,0,0
+International - FIFA World Cup,2018,7534,17:00:00.000,Mexico,1,0,Group Stage,1,1,1,0,1,0,0,0,0,1,0,0
+International - FIFA World Cup,2018,7535,14:00:00.000,Costa Rica,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2018,7535,14:00:00.000,Serbia,1,0,Group Stage,1,1,0,0,0,0,0,0,0,0,1,0
+International - FIFA World Cup,2018,7536,17:00:00.000,Panama,0,3,Group Stage,-3,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2018,7536,17:00:00.000,Belgium,3,0,Group Stage,3,1,0,0,0,0,0,0,0,2,0,0
+International - FIFA World Cup,2018,7537,20:00:00.000,England,2,1,Group Stage,1,1,1,1,0,0,0,1,0,2,0,0
+International - FIFA World Cup,2018,7537,20:00:00.000,Tunisia,1,2,Group Stage,-1,0,1,1,0,0,0,0,1,0,0,0
+International - FIFA World Cup,2018,7538,14:00:00.000,Sweden,1,0,Group Stage,1,1,0,0,0,0,0,0,0,0,1,0
+International - FIFA World Cup,2018,7538,14:00:00.000,South Korea,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2018,7539,17:00:00.000,Poland,1,2,Group Stage,-1,0,0,0,0,0,0,0,1,0,0,0
+International - FIFA World Cup,2018,7539,17:00:00.000,Senegal,2,1,Group Stage,1,1,0,0,0,0,0,0,0,1,0,0
+International - FIFA World Cup,2018,7540,20:00:00.000,Egypt,1,3,Group Stage,-2,0,0,0,0,0,0,0,0,1,0,0
+International - FIFA World Cup,2018,7540,20:00:00.000,Russia,3,1,Group Stage,2,1,0,0,0,0,0,0,0,2,0,0
+International - FIFA World Cup,2018,7541,14:00:00.000,Japan,2,1,Group Stage,1,1,1,1,0,0,0,0,1,1,0,0
+International - FIFA World Cup,2018,7541,14:00:00.000,Colombia,1,2,Group Stage,-1,0,1,1,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2018,7542,14:00:00.000,Morocco,0,1,Group Stage,-1,0,0,1,-1,0,1,0,0,0,0,0
+International - FIFA World Cup,2018,7542,14:00:00.000,Portugal,1,0,Group Stage,1,1,1,0,1,0,0,0,0,1,0,0
+International - FIFA World Cup,2018,7543,20:00:00.000,Spain,1,0,Group Stage,1,1,0,0,0,0,0,0,0,1,0,0
+International - FIFA World Cup,2018,7543,20:00:00.000,Iran,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2018,7544,17:00:00.000,Saudi Arabia,0,1,Group Stage,-1,0,0,1,-1,0,1,0,0,0,0,0
+International - FIFA World Cup,2018,7544,17:00:00.000,Uruguay,1,0,Group Stage,1,1,1,0,1,0,0,0,0,1,0,0
+International - FIFA World Cup,2018,7545,20:00:00.000,Argentina,0,3,Group Stage,-3,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2018,7545,20:00:00.000,Croatia,3,0,Group Stage,3,1,0,0,0,0,0,1,2,0,0,0
+International - FIFA World Cup,2018,7546,17:00:00.000,Peru,0,1,Group Stage,-1,0,0,1,-1,0,1,0,0,0,0,0
+International - FIFA World Cup,2018,7546,17:00:00.000,France,1,0,Group Stage,1,1,1,0,1,0,0,0,0,1,0,0
+International - FIFA World Cup,2018,7547,14:00:00.000,Australia,1,1,Group Stage,0,0,1,1,0,0,0,0,1,0,0,0
+International - FIFA World Cup,2018,7547,14:00:00.000,Denmark,1,1,Group Stage,0,0,1,1,0,0,0,0,1,0,0,0
+International - FIFA World Cup,2018,7548,14:00:00.000,Costa Rica,0,2,Group Stage,-2,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2018,7548,14:00:00.000,Brazil,2,0,Group Stage,2,1,0,0,0,0,0,2,0,1,0,0
+International - FIFA World Cup,2018,7549,17:00:00.000,Iceland,0,2,Group Stage,-2,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2018,7549,17:00:00.000,Nigeria,2,0,Group Stage,2,1,0,0,0,0,0,0,0,2,0,0
+International - FIFA World Cup,2018,7550,20:00:00.000,Switzerland,2,1,Group Stage,1,1,0,1,-1,0,1,0,1,1,0,0
+International - FIFA World Cup,2018,7550,20:00:00.000,Serbia,1,2,Group Stage,-1,0,1,0,1,0,0,0,0,1,0,0
+International - FIFA World Cup,2018,7551,20:00:00.000,Germany,2,1,Group Stage,1,1,0,1,-1,0,1,1,2,0,0,0
+International - FIFA World Cup,2018,7551,20:00:00.000,Sweden,1,2,Group Stage,-1,0,1,0,1,0,0,0,0,1,0,0
+International - FIFA World Cup,2018,7552,14:00:00.000,Belgium,5,2,Group Stage,3,1,2,1,1,0,0,0,0,5,0,0
+International - FIFA World Cup,2018,7552,14:00:00.000,Tunisia,2,5,Group Stage,-3,0,1,2,-1,0,1,1,0,1,1,0
+International - FIFA World Cup,2018,7553,17:00:00.000,South Korea,1,2,Group Stage,-1,0,0,1,-1,0,1,1,0,1,0,0
+International - FIFA World Cup,2018,7553,17:00:00.000,Mexico,2,1,Group Stage,1,1,1,0,1,0,0,0,1,1,0,0
+International - FIFA World Cup,2018,7554,14:00:00.000,Panama,1,6,Group Stage,-5,0,0,5,-5,0,1,0,0,0,1,0
+International - FIFA World Cup,2018,7554,14:00:00.000,England,6,1,Group Stage,5,1,5,0,5,1,0,1,1,3,2,0
+International - FIFA World Cup,2018,7555,20:00:00.000,Colombia,3,0,Group Stage,3,1,1,0,1,0,0,0,0,2,1,0
+International - FIFA World Cup,2018,7555,20:00:00.000,Poland,0,3,Group Stage,-3,0,0,1,-1,0,1,0,0,0,0,0
+International - FIFA World Cup,2018,7556,17:00:00.000,Japan,2,2,Group Stage,0,0,1,1,0,0,0,0,1,0,0,0
+International - FIFA World Cup,2018,7556,17:00:00.000,Senegal,2,2,Group Stage,0,0,1,1,0,0,0,0,0,1,1,0
+International - FIFA World Cup,2018,7557,20:00:00.000,Iran,1,1,Group Stage,0,0,0,1,-1,0,1,1,1,0,0,0
+International - FIFA World Cup,2018,7557,20:00:00.000,Portugal,1,1,Group Stage,0,0,1,0,1,0,0,0,0,0,0,0
+International - FIFA World Cup,2018,7558,16:00:00.000,Russia,0,3,Group Stage,-3,0,0,1,-1,0,1,0,0,0,0,0
+International - FIFA World Cup,2018,7558,16:00:00.000,Uruguay,3,0,Group Stage,3,1,1,0,1,0,0,0,0,2,0,0
+International - FIFA World Cup,2018,7559,16:00:00.000,Saudi Arabia,2,1,Group Stage,1,1,0,1,-1,0,1,1,2,0,0,0
+International - FIFA World Cup,2018,7559,16:00:00.000,Egypt,1,2,Group Stage,-1,0,1,0,1,0,0,0,0,1,0,0
+International - FIFA World Cup,2018,7560,20:00:00.000,Morocco,2,2,Group Stage,0,0,1,1,0,0,0,0,0,2,0,0
+International - FIFA World Cup,2018,7560,20:00:00.000,Spain,2,2,Group Stage,0,0,1,1,0,0,0,1,0,2,0,0
+International - FIFA World Cup,2018,7561,20:00:00.000,Iceland,1,2,Group Stage,-1,0,0,0,0,0,0,0,1,0,0,0
+International - FIFA World Cup,2018,7561,20:00:00.000,Croatia,2,1,Group Stage,1,1,0,0,0,0,0,0,2,0,0,0
+International - FIFA World Cup,2018,7562,16:00:00.000,Australia,0,2,Group Stage,-2,0,0,1,-1,0,1,0,0,0,0,0
+International - FIFA World Cup,2018,7562,16:00:00.000,Peru,2,0,Group Stage,2,1,1,0,1,0,0,0,0,1,0,0
+International - FIFA World Cup,2018,7563,16:00:00.000,Denmark,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2018,7563,16:00:00.000,France,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2018,7564,20:00:00.000,Argentina,2,1,Group Stage,1,1,1,0,1,0,0,0,0,1,1,0
+International - FIFA World Cup,2018,7564,20:00:00.000,Nigeria,1,2,Group Stage,-1,0,0,1,-1,0,1,0,0,0,1,0
+International - FIFA World Cup,2018,7565,20:00:00.000,Serbia,0,2,Group Stage,-2,0,0,1,-1,0,1,0,0,0,0,0
+International - FIFA World Cup,2018,7565,20:00:00.000,Brazil,2,0,Group Stage,2,1,1,0,1,0,0,0,1,0,1,0
+International - FIFA World Cup,2018,7566,16:00:00.000,Sweden,3,0,Group Stage,3,1,0,0,0,0,0,0,0,0,2,0
+International - FIFA World Cup,2018,7566,16:00:00.000,Mexico,0,3,Group Stage,-3,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2018,7567,16:00:00.000,South Korea,2,0,Group Stage,2,1,0,0,0,0,0,2,0,1,1,0
+International - FIFA World Cup,2018,7567,16:00:00.000,Germany,0,2,Group Stage,-2,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2018,7568,20:00:00.000,Costa Rica,2,2,Group Stage,0,0,0,1,-1,0,1,0,0,0,1,0
+International - FIFA World Cup,2018,7568,20:00:00.000,Switzerland,2,2,Group Stage,0,0,1,0,1,0,0,0,1,1,0,0
+International - FIFA World Cup,2018,7569,20:00:00.000,Panama,1,2,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2018,7569,20:00:00.000,Tunisia,2,1,Group Stage,1,1,0,0,0,0,0,0,0,1,0,0
+International - FIFA World Cup,2018,7570,20:00:00.000,Belgium,1,0,Group Stage,1,1,0,0,0,0,0,0,0,1,0,0
+International - FIFA World Cup,2018,7570,20:00:00.000,England,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2018,7571,16:00:00.000,Senegal,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2018,7571,16:00:00.000,Colombia,1,0,Group Stage,1,1,0,0,0,0,0,0,0,0,1,0
+International - FIFA World Cup,2018,7572,16:00:00.000,Poland,1,0,Group Stage,1,1,0,0,0,0,0,0,0,0,1,0
+International - FIFA World Cup,2018,7572,16:00:00.000,Japan,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2018,7576,20:00:00.000,Spain,3,3,Group Stage,0,0,1,2,-1,0,1,0,0,2,1,0
+International - FIFA World Cup,2018,7576,20:00:00.000,Portugal,3,3,Group Stage,0,0,2,1,1,0,0,0,0,3,0,0
+International - FIFA World Cup,2018,7577,17:00:00.000,Morocco,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2018,7577,17:00:00.000,Iran,1,0,Group Stage,1,1,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2018,7578,14:00:00.000,Egypt,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2018,7578,14:00:00.000,Uruguay,1,0,Group Stage,1,1,0,0,0,0,0,0,0,0,1,0
+International - FIFA World Cup,2018,7579,20:00:00.000,Uruguay,2,1,Round of 16,1,1,1,0,1,0,0,0,0,2,0,0
+International - FIFA World Cup,2018,7579,20:00:00.000,Portugal,1,2,Round of 16,-1,0,0,1,-1,0,1,0,0,0,1,0
+International - FIFA World Cup,2018,7580,16:00:00.000,Argentina,3,4,Round of 16,-1,0,1,1,0,0,0,1,0,2,1,0
+International - FIFA World Cup,2018,7580,16:00:00.000,France,4,3,Round of 16,1,1,1,1,0,0,0,0,0,2,2,0
+International - FIFA World Cup,2018,7581,20:00:00.000,Croatia,1,1,Round of 16,0,0,1,1,0,0,0,0,2,2,0,0
+International - FIFA World Cup,2018,7581,20:00:00.000,Denmark,1,1,Round of 16,0,0,1,1,0,0,0,0,1,0,2,0
+International - FIFA World Cup,2018,7582,16:00:00.000,Russia,1,1,Round of 16,0,0,1,0,1,0,0,0,1,1,1,0
+International - FIFA World Cup,2018,7582,16:00:00.000,Spain,1,1,Round of 16,0,0,0,1,-1,0,1,0,1,0,2,0
+International - FIFA World Cup,2018,7583,16:00:00.000,Mexico,0,2,Round of 16,-2,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2018,7583,16:00:00.000,Brazil,2,0,Round of 16,2,1,0,0,0,0,0,0,1,1,0,0
+International - FIFA World Cup,2018,7584,20:00:00.000,Japan,2,3,Round of 16,-1,0,0,0,0,0,0,0,0,2,0,0
+International - FIFA World Cup,2018,7584,20:00:00.000,Belgium,3,2,Round of 16,1,1,0,0,0,0,0,1,0,0,2,0
+International - FIFA World Cup,2018,7585,20:00:00.000,Colombia,1,1,Round of 16,0,0,0,0,0,0,0,1,1,2,1,0
+International - FIFA World Cup,2018,7585,20:00:00.000,England,1,1,Round of 16,0,0,0,0,0,0,0,0,0,2,1,0
+International - FIFA World Cup,2018,7586,16:00:00.000,Switzerland,0,1,Round of 16,-1,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2018,7586,16:00:00.000,Sweden,1,0,Round of 16,1,1,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2018,8649,16:00:00.000,France,2,0,Quarter-finals,2,1,1,0,1,0,0,0,1,0,1,0
+International - FIFA World Cup,2018,8649,16:00:00.000,Uruguay,0,2,Quarter-finals,-2,0,0,1,-1,0,1,0,0,0,0,0
+International - FIFA World Cup,2018,8650,20:00:00.000,Belgium,2,1,Quarter-finals,1,1,1,0,1,0,0,0,0,0,0,0
+International - FIFA World Cup,2018,8650,20:00:00.000,Brazil,1,2,Quarter-finals,-1,0,0,1,-1,0,1,0,0,0,0,0
+International - FIFA World Cup,2018,8651,16:00:00.000,England,2,0,Quarter-finals,2,1,1,0,1,0,0,0,0,0,1,0
+International - FIFA World Cup,2018,8651,16:00:00.000,Sweden,0,2,Quarter-finals,-2,0,0,1,-1,0,1,0,0,0,0,0
+International - FIFA World Cup,2018,8652,20:00:00.000,Croatia,2,2,Quarter-finals,0,0,1,1,0,0,0,0,1,0,2,0
+International - FIFA World Cup,2018,8652,20:00:00.000,Russia,2,2,Quarter-finals,0,0,1,1,0,0,0,0,2,1,2,0
+International - FIFA World Cup,2018,8655,20:00:00.000,Belgium,0,1,Semi-finals,-1,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2018,8655,20:00:00.000,France,1,0,Semi-finals,1,1,0,0,0,0,0,0,0,0,1,0
+International - FIFA World Cup,2018,8656,20:00:00.000,England,1,2,Semi-finals,-1,0,1,0,1,0,0,0,0,0,1,0
+International - FIFA World Cup,2018,8656,20:00:00.000,Croatia,2,1,Semi-finals,1,1,0,1,-1,0,1,0,0,2,0,0
+International - FIFA World Cup,2018,8657,16:00:00.000,England,0,2,3rd Place Final,-2,0,0,1,-1,0,1,0,0,0,0,0
+International - FIFA World Cup,2018,8657,16:00:00.000,Belgium,2,0,3rd Place Final,2,1,1,0,1,0,0,0,0,1,1,0
+International - FIFA World Cup,2018,8658,17:00:00.000,France,4,2,Final,2,1,1,1,0,0,0,0,1,1,0,0
+International - FIFA World Cup,2018,8658,17:00:00.000,Croatia,2,4,Final,-2,0,1,1,0,0,0,0,0,2,0,0
+International - Women's World Cup,2019,22921,21:00:00.000,France Women's,4,0,Regular Season,4,1,2,0,2,0,0,0,1,0,2,0
+International - Women's World Cup,2019,22921,21:00:00.000,Korea Republic Women's,0,4,Regular Season,-4,0,0,2,-2,0,1,0,0,0,0,0
+International - Women's World Cup,2019,22924,21:00:00.000,Norway Women's,3,0,Regular Season,3,1,2,0,2,0,0,0,0,1,0,0
+International - Women's World Cup,2019,22924,21:00:00.000,Nigeria Women's,0,3,Regular Season,-3,0,0,2,-2,0,1,0,0,0,0,0
+International - Women's World Cup,2019,22926,15:00:00.000,Germany Women's,1,0,Regular Season,1,1,0,0,0,0,0,0,0,0,1,0
+International - Women's World Cup,2019,22926,15:00:00.000,China PR Women's,0,1,Regular Season,-1,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2019,22930,18:00:00.000,Spain Women's,3,1,Regular Season,2,1,0,1,-1,0,1,0,0,3,0,0
+International - Women's World Cup,2019,22930,18:00:00.000,South Africa Women's,1,3,Regular Season,-2,0,1,0,1,0,0,0,0,1,0,0
+International - Women's World Cup,2019,22933,13:00:00.000,Australia Women's,1,2,Regular Season,-1,0,1,0,1,0,0,0,0,1,0,0
+International - Women's World Cup,2019,22933,13:00:00.000,Italy Women's,2,1,Regular Season,1,1,0,1,-1,0,1,1,0,0,0,0
+International - Women's World Cup,2019,22934,15:30:00.000,Brazil Women's,3,0,Regular Season,3,1,1,0,1,0,0,0,0,3,0,0
+International - Women's World Cup,2019,22934,15:30:00.000,Jamaica Women's,0,3,Regular Season,-3,0,0,1,-1,0,1,0,0,0,0,0
+International - Women's World Cup,2019,22936,18:00:00.000,England Women's,2,1,Regular Season,1,1,2,0,2,0,0,0,0,1,0,0
+International - Women's World Cup,2019,22936,18:00:00.000,Scotland Women's,1,2,Regular Season,-1,0,0,2,-2,0,1,0,0,0,0,0
+International - Women's World Cup,2019,22939,21:00:00.000,Cameroon Women's,0,1,Regular Season,-1,0,0,1,-1,0,1,0,0,0,0,0
+International - Women's World Cup,2019,22939,21:00:00.000,Canada Women's,1,0,Regular Season,1,1,1,0,1,0,0,0,0,0,1,0
+International - Women's World Cup,2019,22940,18:00:00.000,Argentina Women's,0,0,Regular Season,0,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2019,22940,18:00:00.000,Japan Women's,0,0,Regular Season,0,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2019,22942,15:00:00.000,Netherlands Women's,1,0,Regular Season,1,1,0,0,0,0,0,1,1,0,0,0
+International - Women's World Cup,2019,22942,15:00:00.000,New Zealand Women's,0,1,Regular Season,-1,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2019,22943,21:00:00.000,United States Women's,13,0,Regular Season,13,1,3,0,3,0,0,1,6,6,1,0
+International - Women's World Cup,2019,22943,21:00:00.000,Thailand Women's,0,13,Regular Season,-13,0,0,3,-3,0,1,0,0,0,0,0
+International - Women's World Cup,2019,22944,18:00:00.000,Chile Women's,0,2,Regular Season,-2,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2019,22944,18:00:00.000,Sweden Women's,2,0,Regular Season,2,1,0,0,0,0,0,1,2,0,0,0
+International - Women's World Cup,2019,22945,15:00:00.000,Nigeria Women's,2,0,Regular Season,2,1,0,0,0,0,0,0,0,1,0,0
+International - Women's World Cup,2019,22945,15:00:00.000,Korea Republic Women's,0,2,Regular Season,-2,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2019,22948,21:00:00.000,Norway Women's,1,2,Regular Season,-1,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2019,22948,21:00:00.000,France Women's,2,1,Regular Season,1,1,0,0,0,0,0,0,0,1,0,0
+International - Women's World Cup,2019,22949,18:00:00.000,Germany Women's,1,0,Regular Season,1,1,1,0,1,0,0,0,1,0,0,0
+International - Women's World Cup,2019,22949,18:00:00.000,Spain Women's,0,1,Regular Season,-1,0,0,1,-1,0,1,0,0,0,0,0
+International - Women's World Cup,2019,22955,18:00:00.000,Brazil Women's,2,3,Regular Season,-1,0,2,1,1,0,0,0,1,1,0,0
+International - Women's World Cup,2019,22955,18:00:00.000,Australia Women's,3,2,Regular Season,1,1,1,2,-1,1,1,1,1,1,0,0
+International - Women's World Cup,2019,22956,21:00:00.000,China PR Women's,1,0,Regular Season,1,1,1,0,1,0,0,0,0,1,0,0
+International - Women's World Cup,2019,22956,21:00:00.000,South Africa Women's,0,1,Regular Season,-1,0,0,1,-1,0,1,0,0,0,0,0
+International - Women's World Cup,2019,22961,15:00:00.000,Scotland Women's,1,2,Regular Season,-1,0,0,2,-2,0,1,0,0,1,0,0
+International - Women's World Cup,2019,22961,15:00:00.000,Japan Women's,2,1,Regular Season,1,1,2,0,2,0,0,0,0,2,0,0
+International - Women's World Cup,2019,22962,21:00:00.000,England Women's,1,0,Regular Season,1,1,0,0,0,0,0,0,0,1,0,0
+International - Women's World Cup,2019,22962,21:00:00.000,Argentina Women's,0,1,Regular Season,-1,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2019,22963,18:00:00.000,Italy Women's,5,0,Regular Season,5,1,2,0,2,0,0,0,5,0,0,0
+International - Women's World Cup,2019,22963,18:00:00.000,Jamaica Women's,0,5,Regular Season,-5,0,0,2,-2,0,1,0,0,0,0,0
+International - Women's World Cup,2019,22964,15:00:00.000,Netherlands Women's,3,1,Regular Season,2,1,1,1,0,0,0,0,0,2,1,0
+International - Women's World Cup,2019,22964,15:00:00.000,Cameroon Women's,1,3,Regular Season,-2,0,1,1,0,0,0,0,0,1,0,0
+International - Women's World Cup,2019,22966,21:00:00.000,Canada Women's,2,0,Regular Season,2,1,0,0,0,0,0,0,2,0,0,0
+International - Women's World Cup,2019,22966,21:00:00.000,New Zealand Women's,0,2,Regular Season,-2,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2019,22973,15:00:00.000,Sweden Women's,5,1,Regular Season,4,1,3,0,3,0,0,1,3,1,1,0
+International - Women's World Cup,2019,22973,15:00:00.000,Thailand Women's,1,5,Regular Season,-4,0,0,3,-3,0,1,1,0,1,0,0
+International - Women's World Cup,2019,22974,18:00:00.000,Chile Women's,0,3,Regular Season,-3,0,0,3,-3,0,1,0,0,0,0,0
+International - Women's World Cup,2019,22974,18:00:00.000,United States Women's,3,0,Regular Season,3,1,3,0,3,0,0,0,1,2,0,0
+International - Women's World Cup,2019,22980,21:00:00.000,Nigeria Women's,0,1,Regular Season,-1,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2019,22980,21:00:00.000,France Women's,1,0,Regular Season,1,1,0,0,0,0,0,0,0,0,1,0
+International - Women's World Cup,2019,22981,21:00:00.000,Norway Women's,2,1,Regular Season,1,1,1,0,1,0,0,0,0,1,0,0
+International - Women's World Cup,2019,22981,21:00:00.000,Korea Republic Women's,1,2,Regular Season,-1,0,0,1,-1,0,1,0,0,1,0,0
+International - Women's World Cup,2019,22983,18:00:00.000,China PR Women's,0,0,Regular Season,0,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2019,22983,18:00:00.000,Spain Women's,0,0,Regular Season,0,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2019,22984,18:00:00.000,Germany Women's,4,0,Regular Season,4,1,3,0,3,0,0,0,2,1,0,0
+International - Women's World Cup,2019,22984,18:00:00.000,South Africa Women's,0,4,Regular Season,-4,0,0,3,-3,0,1,0,0,0,0,0
+International - Women's World Cup,2019,68311,21:00:00.000,Jamaica Women's,1,4,Regular Season,-3,0,0,2,-2,0,1,0,1,0,0,0
+International - Women's World Cup,2019,68311,21:00:00.000,Australia Women's,4,1,Regular Season,3,1,2,0,2,0,0,0,0,4,0,0
+International - Women's World Cup,2019,68312,21:00:00.000,Italy Women's,0,1,Regular Season,-1,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2019,68312,21:00:00.000,Brazil Women's,1,0,Regular Season,1,1,0,0,0,0,0,0,1,0,0,0
+International - Women's World Cup,2019,68337,21:00:00.000,Japan Women's,0,2,Regular Season,-2,0,0,1,-1,0,1,0,0,0,0,0
+International - Women's World Cup,2019,68337,21:00:00.000,England Women's,2,0,Regular Season,2,1,1,0,1,0,0,0,0,2,0,0
+International - Women's World Cup,2019,68338,21:00:00.000,Argentina Women's,3,3,Regular Season,0,0,0,1,-1,0,1,1,1,0,0,0
+International - Women's World Cup,2019,68338,21:00:00.000,Scotland Women's,3,3,Regular Season,0,0,1,0,1,0,0,0,1,1,1,0
+International - Women's World Cup,2019,68343,21:00:00.000,Thailand Women's,0,2,Regular Season,-2,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2019,68343,21:00:00.000,Chile Women's,2,0,Regular Season,2,1,0,0,0,0,0,0,0,1,0,0
+International - Women's World Cup,2019,68344,18:00:00.000,Canada Women's,1,2,Regular Season,-1,0,0,0,0,0,0,0,0,1,0,0
+International - Women's World Cup,2019,68344,18:00:00.000,Netherlands Women's,2,1,Regular Season,1,1,0,0,0,0,0,0,0,1,1,0
+International - Women's World Cup,2019,68345,21:00:00.000,United States Women's,2,0,Regular Season,2,1,1,0,1,0,0,0,1,0,0,0
+International - Women's World Cup,2019,68345,21:00:00.000,Sweden Women's,0,2,Regular Season,-2,0,0,1,-1,0,1,0,0,0,0,0
+International - Women's World Cup,2019,68346,18:00:00.000,New Zealand Women's,1,2,Regular Season,-1,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2019,68346,18:00:00.000,Cameroon Women's,2,1,Regular Season,1,1,0,0,0,0,0,1,2,0,0,0
+International - Women's World Cup,2019,68355,17:30:00.000,Nigeria Women's,0,3,Round of 16,-3,0,0,2,-2,0,1,0,0,0,0,0
+International - Women's World Cup,2019,68355,17:30:00.000,Germany Women's,3,0,Round of 16,3,1,2,0,2,0,0,0,0,2,0,0
+International - Women's World Cup,2019,68357,21:00:00.000,Norway Women's,1,1,Round of 16,0,0,1,0,1,0,0,0,2,1,1,0
+International - Women's World Cup,2019,68357,21:00:00.000,Australia Women's,1,1,Round of 16,0,0,0,1,-1,0,1,0,0,0,2,0
+International - Women's World Cup,2019,68362,17:30:00.000,England Women's,3,0,Round of 16,3,1,1,0,1,0,0,0,0,1,2,0
+International - Women's World Cup,2019,68362,17:30:00.000,Cameroon Women's,0,3,Round of 16,-3,0,0,1,-1,0,1,0,0,0,0,0
+International - Women's World Cup,2019,69137,21:00:00.000,Brazil Women's,1,2,Round of 16,-1,0,0,0,0,0,0,0,1,0,0,0
+International - Women's World Cup,2019,69137,21:00:00.000,France Women's,2,1,Round of 16,1,1,0,0,0,0,0,0,1,1,0,0
+International - Women's World Cup,2019,69161,18:00:00.000,Spain Women's,1,2,Round of 16,-1,0,1,1,0,0,0,0,0,1,0,0
+International - Women's World Cup,2019,69161,18:00:00.000,United States Women's,2,1,Round of 16,1,1,1,1,0,0,0,0,0,2,0,0
+International - Women's World Cup,2019,69163,21:00:00.000,Sweden Women's,1,0,Round of 16,1,1,0,0,0,0,0,0,0,1,0,0
+International - Women's World Cup,2019,69163,21:00:00.000,Canada Women's,0,1,Round of 16,-1,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2019,69188,21:00:00.000,Netherlands Women's,2,1,Round of 16,1,1,1,1,0,0,0,0,0,2,0,0
+International - Women's World Cup,2019,69188,21:00:00.000,Japan Women's,1,2,Round of 16,-1,0,1,1,0,0,0,0,0,0,0,0
+International - Women's World Cup,2019,69191,18:00:00.000,Italy Women's,2,0,Round of 16,2,1,1,0,1,0,0,0,1,1,0,0
+International - Women's World Cup,2019,69191,18:00:00.000,China PR Women's,0,2,Round of 16,-2,0,0,1,-1,0,1,0,0,0,0,0
+International - Women's World Cup,2019,69199,21:00:00.000,Norway Women's,0,3,Regular Season,-3,0,0,2,-2,0,1,0,0,0,0,0
+International - Women's World Cup,2019,69199,21:00:00.000,England Women's,3,0,Regular Season,3,1,2,0,2,0,0,0,1,1,1,0
+International - Women's World Cup,2019,69202,21:00:00.000,United States Women's,2,1,Regular Season,1,1,1,0,1,0,0,0,0,2,0,0
+International - Women's World Cup,2019,69202,21:00:00.000,France Women's,1,2,Regular Season,-1,0,0,1,-1,0,1,0,0,0,1,0
+International - Women's World Cup,2019,69205,15:00:00.000,Italy Women's,0,2,Regular Season,-2,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2019,69205,15:00:00.000,Netherlands Women's,2,0,Regular Season,2,1,0,0,0,0,0,0,0,1,1,0
+International - Women's World Cup,2019,69208,18:30:00.000,Germany Women's,1,2,Regular Season,-1,0,1,1,0,0,0,0,0,1,0,0
+International - Women's World Cup,2019,69208,18:30:00.000,Sweden Women's,2,1,Regular Season,1,1,1,1,0,0,0,0,0,2,0,0
+International - Women's World Cup,2019,69258,21:00:00.000,England Women's,1,2,Semi-finals,-1,0,1,2,-1,0,1,0,0,1,0,0
+International - Women's World Cup,2019,69258,21:00:00.000,United States Women's,2,1,Semi-finals,1,1,2,1,1,0,0,0,0,2,0,0
+International - Women's World Cup,2019,69284,21:00:00.000,Sweden Women's,0,1,Semi-finals,-1,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2019,69284,21:00:00.000,Netherlands Women's,1,0,Semi-finals,1,1,0,0,0,0,0,0,1,0,0,0
+International - Women's World Cup,2019,69301,17:00:00.000,Sweden Women's,2,1,3rd Place Final,1,1,2,1,1,0,0,0,1,1,0,0
+International - Women's World Cup,2019,69301,17:00:00.000,England Women's,1,2,3rd Place Final,-1,0,1,2,-1,0,1,0,1,0,0,0
+International - Women's World Cup,2019,69321,17:00:00.000,Netherlands Women's,0,2,Final,-2,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2019,69321,17:00:00.000,United States Women's,2,0,Final,2,1,0,0,0,0,0,0,1,1,0,0
+Europe - UEFA Euro,2020,3788741,21:00:00.000,Italy,3,0,Group Stage,3,1,0,0,0,0,0,0,0,2,0,0
+Europe - UEFA Euro,2020,3788741,21:00:00.000,Turkey,0,3,Group Stage,-3,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2020,3788742,18:00:00.000,Finland,1,0,Group Stage,1,1,0,0,0,0,0,0,0,1,0,0
+Europe - UEFA Euro,2020,3788742,18:00:00.000,Denmark,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2020,3788743,21:00:00.000,Russia,0,3,Group Stage,-3,0,0,2,-2,0,1,0,0,0,0,0
+Europe - UEFA Euro,2020,3788743,21:00:00.000,Belgium,3,0,Group Stage,3,1,2,0,2,0,0,0,0,2,1,0
+Europe - UEFA Euro,2020,3788744,15:00:00.000,Switzerland,1,1,Group Stage,0,0,0,0,0,0,0,0,0,1,0,0
+Europe - UEFA Euro,2020,3788744,15:00:00.000,Wales,1,1,Group Stage,0,0,0,0,0,0,0,0,0,1,0,0
+Europe - UEFA Euro,2020,3788745,15:00:00.000,England,1,0,Group Stage,1,1,0,0,0,0,0,0,0,1,0,0
+Europe - UEFA Euro,2020,3788745,15:00:00.000,Croatia,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2020,3788746,21:00:00.000,Netherlands,3,2,Group Stage,1,1,0,0,0,0,0,0,1,1,1,0
+Europe - UEFA Euro,2020,3788746,21:00:00.000,Ukraine,2,3,Group Stage,-1,0,0,0,0,0,0,0,0,2,0,0
+Europe - UEFA Euro,2020,3788747,18:00:00.000,North Macedonia,1,3,Group Stage,-2,0,1,1,0,0,0,0,0,1,0,0
+Europe - UEFA Euro,2020,3788747,18:00:00.000,Austria,3,1,Group Stage,2,1,1,1,0,0,0,0,0,2,1,0
+Europe - UEFA Euro,2020,3788748,15:00:00.000,Czech Republic,2,0,Group Stage,2,1,1,0,1,0,0,0,0,2,0,0
+Europe - UEFA Euro,2020,3788748,15:00:00.000,Scotland,0,2,Group Stage,-2,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Euro,2020,3788749,18:00:00.000,Slovakia,2,1,Group Stage,1,1,0,0,0,0,0,0,0,0,1,0
+Europe - UEFA Euro,2020,3788749,18:00:00.000,Poland,1,2,Group Stage,-1,0,0,0,0,0,0,0,1,0,0,0
+Europe - UEFA Euro,2020,3788750,21:00:00.000,Sweden,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2020,3788750,21:00:00.000,Spain,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2020,3788751,21:00:00.000,Germany,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2020,3788751,21:00:00.000,France,1,0,Group Stage,1,1,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2020,3788752,18:00:00.000,Portugal,3,0,Group Stage,3,1,0,0,0,0,0,1,0,2,1,0
+Europe - UEFA Euro,2020,3788752,18:00:00.000,Hungary,0,3,Group Stage,-3,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2020,3788753,15:00:00.000,Russia,1,0,Group Stage,1,1,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2020,3788753,15:00:00.000,Finland,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2020,3788754,21:00:00.000,Italy,3,0,Group Stage,3,1,1,0,1,0,0,0,2,1,0,0
+Europe - UEFA Euro,2020,3788754,21:00:00.000,Switzerland,0,3,Group Stage,-3,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Euro,2020,3788755,18:00:00.000,Wales,2,0,Group Stage,2,1,1,0,1,0,0,1,1,0,1,0
+Europe - UEFA Euro,2020,3788755,18:00:00.000,Turkey,0,2,Group Stage,-2,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Euro,2020,3788756,21:00:00.000,Netherlands,2,0,Group Stage,2,1,1,0,1,0,0,0,0,1,1,0
+Europe - UEFA Euro,2020,3788756,21:00:00.000,Austria,0,2,Group Stage,-2,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Euro,2020,3788757,18:00:00.000,Denmark,1,2,Group Stage,-1,0,1,0,1,0,0,0,0,1,0,0
+Europe - UEFA Euro,2020,3788757,18:00:00.000,Belgium,2,1,Group Stage,1,1,0,1,-1,0,1,0,0,0,1,0
+Europe - UEFA Euro,2020,3788758,15:00:00.000,Ukraine,2,1,Group Stage,1,1,2,0,2,0,0,0,0,2,0,0
+Europe - UEFA Euro,2020,3788758,15:00:00.000,North Macedonia,1,2,Group Stage,-1,0,0,2,-2,0,1,0,0,0,1,0
+Europe - UEFA Euro,2020,3788759,21:00:00.000,England,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2020,3788759,21:00:00.000,Scotland,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2020,3788760,18:00:00.000,Czech Republic,1,1,Group Stage,0,0,1,0,1,0,0,0,0,1,0,0
+Europe - UEFA Euro,2020,3788760,18:00:00.000,Croatia,1,1,Group Stage,0,0,0,1,-1,0,1,0,0,1,0,0
+Europe - UEFA Euro,2020,3788761,15:00:00.000,Sweden,1,0,Group Stage,1,1,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2020,3788761,15:00:00.000,Slovakia,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2020,3788762,21:00:00.000,Poland,1,1,Group Stage,0,0,0,1,-1,0,1,0,0,1,0,0
+Europe - UEFA Euro,2020,3788762,21:00:00.000,Spain,1,1,Group Stage,0,0,1,0,1,0,0,0,0,1,0,0
+Europe - UEFA Euro,2020,3788763,15:00:00.000,France,1,1,Group Stage,0,0,0,0,0,0,0,0,1,0,0,0
+Europe - UEFA Euro,2020,3788763,15:00:00.000,Hungary,1,1,Group Stage,0,0,0,0,0,0,0,0,0,0,1,0
+Europe - UEFA Euro,2020,3788764,18:00:00.000,Germany,4,2,Group Stage,2,1,0,1,-1,0,1,0,0,0,1,0
+Europe - UEFA Euro,2020,3788764,18:00:00.000,Portugal,2,4,Group Stage,-2,0,1,0,1,0,0,0,0,2,0,0
+Europe - UEFA Euro,2020,3788765,18:00:00.000,Turkey,1,3,Group Stage,-2,0,0,2,-2,0,1,0,1,0,0,0
+Europe - UEFA Euro,2020,3788765,18:00:00.000,Switzerland,3,1,Group Stage,2,1,2,0,2,0,0,0,2,1,0,0
+Europe - UEFA Euro,2020,3788766,18:00:00.000,Wales,0,1,Group Stage,-1,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Euro,2020,3788766,18:00:00.000,Italy,1,0,Group Stage,1,1,1,0,1,0,0,0,1,0,0,0
+Europe - UEFA Euro,2020,3788767,18:00:00.000,Ukraine,0,1,Group Stage,-1,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Euro,2020,3788767,18:00:00.000,Austria,1,0,Group Stage,1,1,1,0,1,0,0,0,0,1,0,0
+Europe - UEFA Euro,2020,3788768,21:00:00.000,Belgium,2,0,Group Stage,2,1,0,0,0,0,0,0,0,1,0,0
+Europe - UEFA Euro,2020,3788768,21:00:00.000,Finland,0,2,Group Stage,-2,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2020,3788769,21:00:00.000,Denmark,4,1,Group Stage,3,1,1,0,1,0,0,0,0,1,2,0
+Europe - UEFA Euro,2020,3788769,21:00:00.000,Russia,1,4,Group Stage,-3,0,0,1,-1,0,1,0,0,1,0,0
+Europe - UEFA Euro,2020,3788770,18:00:00.000,North Macedonia,0,3,Group Stage,-3,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Euro,2020,3788770,18:00:00.000,Netherlands,3,0,Group Stage,3,1,1,0,1,0,0,0,2,1,0,0
+Europe - UEFA Euro,2020,3788771,21:00:00.000,Croatia,3,1,Group Stage,2,1,1,1,0,0,0,0,1,2,0,0
+Europe - UEFA Euro,2020,3788771,21:00:00.000,Scotland,1,3,Group Stage,-2,0,1,1,0,0,0,0,1,0,0,0
+Europe - UEFA Euro,2020,3788772,21:00:00.000,England,1,0,Group Stage,1,1,1,0,1,0,0,0,0,1,0,0
+Europe - UEFA Euro,2020,3788772,21:00:00.000,Czech Republic,0,1,Group Stage,-1,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Euro,2020,3788773,21:00:00.000,Portugal,2,2,Group Stage,0,0,1,0,1,0,0,0,0,2,0,0
+Europe - UEFA Euro,2020,3788773,21:00:00.000,France,2,2,Group Stage,0,0,0,1,-1,0,1,0,0,2,0,0
+Europe - UEFA Euro,2020,3788774,21:00:00.000,Germany,2,2,Group Stage,0,0,0,1,-1,0,1,0,0,1,1,0
+Europe - UEFA Euro,2020,3788774,21:00:00.000,Hungary,2,2,Group Stage,0,0,1,0,1,0,0,0,1,1,0,0
+Europe - UEFA Euro,2020,3788775,18:00:00.000,Spain,5,0,Group Stage,5,1,0,0,0,0,0,0,0,2,1,0
+Europe - UEFA Euro,2020,3788775,18:00:00.000,Slovakia,0,5,Group Stage,-5,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2020,3788776,18:00:00.000,Sweden,3,2,Group Stage,1,1,1,0,1,0,0,1,0,0,0,0
+Europe - UEFA Euro,2020,3788776,18:00:00.000,Poland,2,3,Group Stage,-1,0,0,1,-1,0,1,0,0,2,0,0
+Europe - UEFA Euro,2020,3794685,21:00:00.000,Italy,2,1,Round of 16,1,1,0,0,0,0,0,0,1,1,0,0
+Europe - UEFA Euro,2020,3794685,21:00:00.000,Austria,1,2,Round of 16,-1,0,0,0,0,0,0,0,0,1,0,0
+Europe - UEFA Euro,2020,3794686,18:00:00.000,Croatia,3,5,Round of 16,-2,0,0,1,-1,0,1,1,0,2,0,0
+Europe - UEFA Euro,2020,3794686,18:00:00.000,Spain,5,3,Round of 16,2,1,1,0,1,0,0,0,0,4,1,0
+Europe - UEFA Euro,2020,3794687,21:00:00.000,Portugal,0,1,Round of 16,-1,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Euro,2020,3794687,21:00:00.000,Belgium,1,0,Round of 16,1,1,1,0,1,0,0,0,0,0,1,0
+Europe - UEFA Euro,2020,3794688,18:00:00.000,England,2,0,Round of 16,2,1,0,0,0,0,0,0,0,2,0,0
+Europe - UEFA Euro,2020,3794688,18:00:00.000,Germany,0,2,Round of 16,-2,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2020,3794689,18:00:00.000,Wales,0,4,Round of 16,-4,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Euro,2020,3794689,18:00:00.000,Denmark,4,0,Round of 16,4,1,1,0,1,0,0,1,0,3,1,0
+Europe - UEFA Euro,2020,3794690,18:00:00.000,Netherlands,0,2,Round of 16,-2,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2020,3794690,18:00:00.000,Czech Republic,2,0,Round of 16,2,1,0,0,0,0,0,0,1,1,0,0
+Europe - UEFA Euro,2020,3794691,21:00:00.000,Switzerland,3,3,Round of 16,0,0,1,0,1,0,0,0,1,4,2,0
+Europe - UEFA Euro,2020,3794691,21:00:00.000,France,3,3,Round of 16,0,0,0,1,-1,0,1,0,2,3,1,0
+Europe - UEFA Euro,2020,3794692,21:00:00.000,Ukraine,2,1,Round of 16,1,1,1,1,0,0,0,0,0,1,1,0
+Europe - UEFA Euro,2020,3794692,21:00:00.000,Sweden,1,2,Round of 16,-1,0,1,1,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2020,3795107,21:00:00.000,Belgium,1,2,Quarter-finals,-1,0,0,2,-2,0,1,0,0,1,0,0
+Europe - UEFA Euro,2020,3795107,21:00:00.000,Italy,2,1,Quarter-finals,1,1,2,0,2,0,0,0,1,1,0,0
+Europe - UEFA Euro,2020,3795108,18:00:00.000,Spain,1,1,Quarter-finals,0,0,0,0,0,0,0,0,0,3,0,0
+Europe - UEFA Euro,2020,3795108,18:00:00.000,Switzerland,1,1,Quarter-finals,0,0,0,0,0,0,0,0,1,1,0,0
+Europe - UEFA Euro,2020,3795109,18:00:00.000,Denmark,2,1,Quarter-finals,1,1,2,0,2,0,0,0,1,1,0,0
+Europe - UEFA Euro,2020,3795109,18:00:00.000,Czech Republic,1,2,Quarter-finals,-1,0,0,2,-2,0,1,0,0,1,0,0
+Europe - UEFA Euro,2020,3795187,21:00:00.000,Ukraine,0,4,Quarter-finals,-4,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Euro,2020,3795187,21:00:00.000,England,4,0,Quarter-finals,4,1,1,0,1,0,0,0,1,2,1,0
+Europe - UEFA Euro,2020,3795220,21:00:00.000,Italy,1,1,Semi-finals,0,0,0,0,0,0,0,0,1,3,1,0
+Europe - UEFA Euro,2020,3795220,21:00:00.000,Spain,1,1,Semi-finals,0,0,0,0,0,0,0,0,1,2,0,0
+Europe - UEFA Euro,2020,3795221,21:00:00.000,Denmark,1,2,Semi-finals,-1,0,1,0,1,0,0,0,0,1,0,0
+Europe - UEFA Euro,2020,3795221,21:00:00.000,England,2,1,Semi-finals,1,1,0,1,-1,0,1,0,0,1,0,0
+Europe - UEFA Euro,2020,3795506,21:00:00.000,Italy,1,1,Final,0,0,0,1,-1,0,1,0,0,2,2,0
+Europe - UEFA Euro,2020,3795506,21:00:00.000,England,1,1,Final,0,0,1,0,1,0,0,0,0,1,2,0
+Europe - UEFA Women's Euro,2022,3835319,21:00:00.000,England Women's,1,0,Group Stage,1,1,1,0,1,0,0,0,0,1,0,0
+Europe - UEFA Women's Euro,2022,3835319,21:00:00.000,Austria Women's,0,1,Group Stage,-1,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Women's Euro,2022,3835320,21:00:00.000,Norway Women's,4,1,Group Stage,3,1,3,0,3,0,0,0,2,1,1,0
+Europe - UEFA Women's Euro,2022,3835320,21:00:00.000,Northern Ireland,1,4,Group Stage,-3,0,0,3,-3,0,1,0,0,0,1,0
+Europe - UEFA Women's Euro,2022,3835321,18:00:00.000,WNT Finland,1,4,Group Stage,-3,0,1,2,-1,0,1,0,0,1,0,0
+Europe - UEFA Women's Euro,2022,3835321,18:00:00.000,Spain Women's,4,1,Group Stage,3,1,2,1,1,0,0,1,2,1,1,0
+Europe - UEFA Women's Euro,2022,3835322,21:00:00.000,Denmark Women's,0,4,Group Stage,-4,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Women's Euro,2022,3835322,21:00:00.000,Germany Women's,4,0,Group Stage,4,1,1,0,1,0,0,0,2,2,0,0
+Europe - UEFA Women's Euro,2022,3835323,18:00:00.000,Switzerland Women's,2,2,Group Stage,0,0,2,0,2,0,0,0,1,0,1,0
+Europe - UEFA Women's Euro,2022,3835323,18:00:00.000,Portugal Women's,2,2,Group Stage,0,0,0,2,-2,0,1,0,0,1,1,0
+Europe - UEFA Women's Euro,2022,3835324,21:00:00.000,Netherlands Women's,1,1,Group Stage,0,0,0,1,-1,0,1,0,1,0,0,0
+Europe - UEFA Women's Euro,2022,3835324,21:00:00.000,Sweden Women's,1,1,Group Stage,0,0,1,0,1,0,0,0,0,0,1,0
+Europe - UEFA Women's Euro,2022,3835325,21:00:00.000,France Women's,5,1,Group Stage,4,1,5,0,5,0,0,0,3,2,0,0
+Europe - UEFA Women's Euro,2022,3835325,21:00:00.000,Italy Women's,1,5,Group Stage,-4,0,0,5,-5,0,1,0,1,0,0,0
+Europe - UEFA Women's Euro,2022,3835326,18:00:00.000,Belgium Women's,1,1,Group Stage,0,0,0,0,0,0,0,0,1,0,0,0
+Europe - UEFA Women's Euro,2022,3835326,18:00:00.000,Iceland Women's,1,1,Group Stage,0,0,0,0,0,0,0,0,0,1,0,0
+Europe - UEFA Women's Euro,2022,3835327,21:00:00.000,Norway Women's,0,8,Group Stage,-8,0,0,6,-6,0,1,0,0,0,0,0
+Europe - UEFA Women's Euro,2022,3835327,21:00:00.000,England Women's,8,0,Group Stage,8,1,6,0,6,0,0,0,1,7,0,0
+Europe - UEFA Women's Euro,2022,3835328,18:00:00.000,Northern Ireland,0,2,Group Stage,-2,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Women's Euro,2022,3835328,18:00:00.000,Austria Women's,2,0,Group Stage,2,1,1,0,1,0,0,0,0,0,1,0
+Europe - UEFA Women's Euro,2022,3835329,18:00:00.000,Denmark Women's,1,0,Group Stage,1,1,0,0,0,0,0,0,0,1,0,0
+Europe - UEFA Women's Euro,2022,3835329,18:00:00.000,WNT Finland,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Women's Euro,2022,3835330,21:00:00.000,Germany Women's,2,0,Group Stage,2,1,2,0,2,0,0,0,0,2,0,0
+Europe - UEFA Women's Euro,2022,3835330,21:00:00.000,Spain Women's,0,2,Group Stage,-2,0,0,2,-2,0,1,0,0,0,0,0
+Europe - UEFA Women's Euro,2022,3835331,18:00:00.000,Sweden Women's,2,1,Group Stage,1,1,0,0,0,0,0,0,0,2,0,0
+Europe - UEFA Women's Euro,2022,3835331,18:00:00.000,Switzerland Women's,1,2,Group Stage,-1,0,0,0,0,0,0,0,0,1,0,0
+Europe - UEFA Women's Euro,2022,3835332,21:00:00.000,Portugal Women's,2,3,Group Stage,-1,0,1,2,-1,0,1,0,0,1,1,0
+Europe - UEFA Women's Euro,2022,3835332,21:00:00.000,Netherlands Women's,3,2,Group Stage,1,1,2,1,1,0,0,0,1,1,1,0
+Europe - UEFA Women's Euro,2022,3835333,21:00:00.000,France Women's,2,1,Group Stage,1,1,2,1,1,0,0,0,0,1,1,0
+Europe - UEFA Women's Euro,2022,3835333,21:00:00.000,Belgium Women's,1,2,Group Stage,-1,0,1,2,-1,0,1,0,0,1,0,0
+Europe - UEFA Women's Euro,2022,3835334,18:00:00.000,Italy Women's,1,1,Group Stage,0,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Women's Euro,2022,3835334,18:00:00.000,Iceland Women's,1,1,Group Stage,0,0,1,0,1,0,0,0,0,1,0,0
+Europe - UEFA Women's Euro,2022,3835335,21:00:00.000,England Women's,5,0,Group Stage,5,1,2,0,2,0,0,0,1,3,0,0
+Europe - UEFA Women's Euro,2022,3835335,21:00:00.000,Northern Ireland,0,5,Group Stage,-5,0,0,2,-2,0,1,0,0,0,0,0
+Europe - UEFA Women's Euro,2022,3835336,21:00:00.000,Norway Women's,0,1,Group Stage,-1,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Women's Euro,2022,3835336,21:00:00.000,Austria Women's,1,0,Group Stage,1,1,1,0,1,0,0,0,0,1,0,0
+Europe - UEFA Women's Euro,2022,3835337,21:00:00.000,Denmark Women's,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Women's Euro,2022,3835337,21:00:00.000,Spain Women's,1,0,Group Stage,1,1,0,0,0,0,0,0,0,1,0,0
+Europe - UEFA Women's Euro,2022,3835338,21:00:00.000,WNT Finland,0,3,Group Stage,-3,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Women's Euro,2022,3835338,21:00:00.000,Germany Women's,3,0,Group Stage,3,1,1,0,1,0,0,0,0,1,2,0
+Europe - UEFA Women's Euro,2022,3835339,18:00:00.000,Netherlands Women's,4,1,Group Stage,3,1,0,0,0,0,0,1,0,3,0,0
+Europe - UEFA Women's Euro,2022,3835339,18:00:00.000,Switzerland Women's,1,4,Group Stage,-3,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Women's Euro,2022,3835340,18:00:00.000,Sweden Women's,5,0,Group Stage,5,1,2,0,2,0,0,1,2,2,0,0
+Europe - UEFA Women's Euro,2022,3835340,18:00:00.000,Portugal Women's,0,5,Group Stage,-5,0,0,2,-2,0,1,0,0,0,0,0
+Europe - UEFA Women's Euro,2022,3835341,21:00:00.000,Belgium Women's,1,0,Group Stage,1,1,0,0,0,0,0,0,1,0,0,0
+Europe - UEFA Women's Euro,2022,3835341,21:00:00.000,Italy Women's,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Women's Euro,2022,3835342,21:00:00.000,France Women's,1,1,Group Stage,0,0,1,0,1,0,0,0,0,1,0,0
+Europe - UEFA Women's Euro,2022,3835342,21:00:00.000,Iceland Women's,1,1,Group Stage,0,0,0,1,-1,0,1,1,1,0,0,0
+Europe - UEFA Women's Euro,2022,3844384,21:00:00.000,Spain Women's,1,2,Quarter-finals,-1,0,0,0,0,0,0,0,0,1,0,0
+Europe - UEFA Women's Euro,2022,3844384,21:00:00.000,England Women's,2,1,Quarter-finals,1,1,0,0,0,0,0,0,2,0,0,0
+Europe - UEFA Women's Euro,2022,3844385,21:00:00.000,Austria Women's,0,2,Quarter-finals,-2,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Women's Euro,2022,3844385,21:00:00.000,Germany Women's,2,0,Quarter-finals,2,1,1,0,1,0,0,0,1,1,0,0
+Europe - UEFA Women's Euro,2022,3844386,21:00:00.000,Belgium Women's,0,1,Quarter-finals,-1,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Women's Euro,2022,3844386,21:00:00.000,Sweden Women's,1,0,Quarter-finals,1,1,0,0,0,0,0,1,0,0,1,0
+Europe - UEFA Women's Euro,2022,3844387,21:00:00.000,France Women's,1,0,Quarter-finals,1,1,0,0,0,0,0,0,0,0,1,0
+Europe - UEFA Women's Euro,2022,3844387,21:00:00.000,Netherlands Women's,0,1,Quarter-finals,-1,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Women's Euro,2022,3845506,21:00:00.000,England Women's,4,0,Semi-finals,4,1,1,0,1,0,0,0,1,1,1,0
+Europe - UEFA Women's Euro,2022,3845506,21:00:00.000,Sweden Women's,0,4,Semi-finals,-4,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Women's Euro,2022,3845507,21:00:00.000,France Women's,1,2,Semi-finals,-1,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Women's Euro,2022,3845507,21:00:00.000,Germany Women's,2,1,Semi-finals,1,1,1,0,1,0,0,0,0,2,0,0
+Europe - UEFA Women's Euro,2022,3847567,18:00:00.000,Germany Women's,1,2,Final,-1,0,0,0,0,0,0,0,1,0,0,0
+Europe - UEFA Women's Euro,2022,3847567,18:00:00.000,England Women's,2,1,Final,1,1,0,0,0,0,0,0,1,1,0,0
+International - FIFA World Cup,2022,3857254,15:00:00.000,Tunisia,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2022,3857254,15:00:00.000,Denmark,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2022,3857255,21:00:00.000,Spain,1,2,Group Stage,-1,0,1,0,1,0,0,0,0,1,0,0
+International - FIFA World Cup,2022,3857255,21:00:00.000,Japan,2,1,Group Stage,1,1,0,1,-1,0,1,0,1,1,0,0
+International - FIFA World Cup,2022,3857256,21:00:00.000,Switzerland,3,2,Group Stage,1,1,2,2,0,0,0,0,1,2,0,0
+International - FIFA World Cup,2022,3857256,21:00:00.000,Serbia,2,3,Group Stage,-1,0,2,2,0,0,0,0,0,2,0,0
+International - FIFA World Cup,2022,3857257,17:00:00.000,Denmark,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2022,3857257,17:00:00.000,Australia,1,0,Group Stage,1,1,0,0,0,0,0,0,0,1,0,0
+International - FIFA World Cup,2022,3857258,21:00:00.000,Serbia,0,2,Group Stage,-2,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2022,3857258,21:00:00.000,Brazil,2,0,Group Stage,2,1,0,0,0,0,0,0,0,2,0,0
+International - FIFA World Cup,2022,3857259,12:00:00.000,Cameroon,3,3,Group Stage,0,0,1,1,0,0,0,0,1,1,1,0
+International - FIFA World Cup,2022,3857259,12:00:00.000,Serbia,3,3,Group Stage,0,0,1,1,0,1,0,1,0,1,1,0
+International - FIFA World Cup,2022,3857260,21:00:00.000,Mexico,2,1,Group Stage,1,1,0,0,0,0,0,0,1,1,0,0
+International - FIFA World Cup,2022,3857260,21:00:00.000,Saudi Arabia,1,2,Group Stage,-1,0,0,0,0,0,0,1,0,1,0,0
+International - FIFA World Cup,2022,3857261,21:00:00.000,England,3,0,Group Stage,3,1,0,0,0,0,0,0,0,3,0,0
+International - FIFA World Cup,2022,3857261,21:00:00.000,Wales,0,3,Group Stage,-3,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2022,3857262,17:00:00.000,South Korea,2,1,Group Stage,1,1,1,1,0,0,0,1,0,0,1,0
+International - FIFA World Cup,2022,3857262,17:00:00.000,Portugal,1,2,Group Stage,-1,0,1,1,0,0,0,0,0,1,0,0
+International - FIFA World Cup,2022,3857263,21:00:00.000,Spain,1,1,Group Stage,0,0,0,0,0,0,0,0,0,1,0,0
+International - FIFA World Cup,2022,3857263,21:00:00.000,Germany,1,1,Group Stage,0,0,0,0,0,0,0,0,0,1,0,0
+International - FIFA World Cup,2022,3857264,21:00:00.000,Argentina,2,0,Group Stage,2,1,0,0,0,0,0,0,1,1,0,0
+International - FIFA World Cup,2022,3857264,21:00:00.000,Poland,0,2,Group Stage,-2,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2022,3857265,18:00:00.000,Mexico,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2022,3857265,18:00:00.000,Poland,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2022,3857266,18:00:00.000,France,2,1,Group Stage,1,1,0,0,0,0,0,0,0,2,0,0
+International - FIFA World Cup,2022,3857266,18:00:00.000,Denmark,1,2,Group Stage,-1,0,0,0,0,0,0,0,0,0,1,0
+International - FIFA World Cup,2022,3857267,17:00:00.000,Senegal,2,1,Group Stage,1,1,1,0,1,0,0,0,0,1,1,0
+International - FIFA World Cup,2022,3857267,17:00:00.000,Ecuador,1,2,Group Stage,-1,0,0,1,-1,0,1,0,1,0,0,0
+International - FIFA World Cup,2022,3857268,21:00:00.000,Belgium,1,0,Group Stage,1,1,1,0,1,0,0,0,0,1,0,0
+International - FIFA World Cup,2022,3857268,21:00:00.000,Canada,0,1,Group Stage,-1,0,0,1,-1,0,1,0,0,0,0,0
+International - FIFA World Cup,2022,3857269,18:00:00.000,Switzerland,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2022,3857269,18:00:00.000,Brazil,1,0,Group Stage,1,1,0,0,0,0,0,0,1,0,0,0
+International - FIFA World Cup,2022,3857270,21:00:00.000,Uruguay,0,2,Group Stage,-2,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2022,3857270,21:00:00.000,Portugal,2,0,Group Stage,2,1,0,0,0,0,0,1,1,1,0,0
+International - FIFA World Cup,2022,3857271,15:00:00.000,England,6,2,Group Stage,4,1,3,0,3,1,0,1,1,5,0,0
+International - FIFA World Cup,2022,3857271,15:00:00.000,Iran,2,6,Group Stage,-4,0,0,3,-3,0,1,1,0,2,0,0
+International - FIFA World Cup,2022,3857272,21:00:00.000,United States,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2022,3857272,21:00:00.000,England,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2022,3857273,12:00:00.000,Iran,2,0,Group Stage,2,1,0,0,0,0,0,2,1,0,1,0
+International - FIFA World Cup,2022,3857273,12:00:00.000,Wales,0,2,Group Stage,-2,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2022,3857274,18:00:00.000,Ecuador,1,1,Group Stage,0,0,0,1,-1,0,1,0,0,0,0,0
+International - FIFA World Cup,2022,3857274,18:00:00.000,Netherlands,1,1,Group Stage,0,0,1,0,1,0,0,0,0,1,0,0
+International - FIFA World Cup,2022,3857275,17:00:00.000,France,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2022,3857275,17:00:00.000,Tunisia,1,0,Group Stage,1,1,0,0,0,0,0,0,0,1,0,0
+International - FIFA World Cup,2022,3857276,17:00:00.000,Morocco,2,1,Group Stage,1,1,2,0,2,0,0,0,0,2,0,0
+International - FIFA World Cup,2022,3857276,17:00:00.000,Canada,1,2,Group Stage,-1,0,0,2,-2,0,1,0,0,0,0,0
+International - FIFA World Cup,2022,3857277,12:00:00.000,Croatia,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2022,3857277,12:00:00.000,Morocco,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2022,3857278,21:00:00.000,United States,1,0,Group Stage,1,1,1,0,1,0,0,0,0,1,0,0
+International - FIFA World Cup,2022,3857278,21:00:00.000,Iran,0,1,Group Stage,-1,0,0,1,-1,0,1,0,0,0,0,0
+International - FIFA World Cup,2022,3857279,21:00:00.000,France,4,1,Group Stage,3,1,2,1,1,0,0,0,1,3,0,0
+International - FIFA World Cup,2022,3857279,21:00:00.000,Australia,1,4,Group Stage,-3,0,1,2,-1,0,1,0,0,0,0,0
+International - FIFA World Cup,2022,3857280,21:00:00.000,Brazil,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2022,3857280,21:00:00.000,Cameroon,1,0,Group Stage,1,1,0,0,0,0,0,1,0,1,0,0
+International - FIFA World Cup,2022,3857281,18:00:00.000,Canada,1,4,Group Stage,-3,0,1,2,-1,0,1,0,0,0,0,0
+International - FIFA World Cup,2022,3857281,18:00:00.000,Croatia,4,1,Group Stage,3,1,2,1,1,0,0,1,1,3,0,0
+International - FIFA World Cup,2022,3857282,21:00:00.000,United States,1,1,Group Stage,0,0,1,0,1,0,0,0,0,1,0,0
+International - FIFA World Cup,2022,3857282,21:00:00.000,Wales,1,1,Group Stage,0,0,0,1,-1,0,1,0,0,1,0,0
+International - FIFA World Cup,2022,3857283,15:00:00.000,Morocco,2,0,Group Stage,2,1,0,0,0,0,0,1,0,1,1,0
+International - FIFA World Cup,2022,3857283,15:00:00.000,Belgium,0,2,Group Stage,-2,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2022,3857284,15:00:00.000,Japan,2,1,Group Stage,1,1,0,1,-1,0,1,0,0,2,0,0
+International - FIFA World Cup,2022,3857284,15:00:00.000,Germany,1,2,Group Stage,-1,0,1,0,1,0,0,0,1,0,0,0
+International - FIFA World Cup,2022,3857285,18:00:00.000,Netherlands,2,0,Group Stage,2,1,0,0,0,0,0,1,0,1,0,0
+International - FIFA World Cup,2022,3857285,18:00:00.000,Senegal,0,2,Group Stage,-2,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2022,3857286,18:00:00.000,Ecuador,2,0,Group Stage,2,1,2,0,2,0,0,0,0,2,0,0
+International - FIFA World Cup,2022,3857286,18:00:00.000,Qatar,0,2,Group Stage,-2,0,0,2,-2,0,1,0,0,0,0,0
+International - FIFA World Cup,2022,3857287,15:00:00.000,South Korea,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2022,3857287,15:00:00.000,Uruguay,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2022,3857288,12:00:00.000,Australia,1,0,Group Stage,1,1,1,0,1,0,0,0,0,1,0,0
+International - FIFA World Cup,2022,3857288,12:00:00.000,Tunisia,0,1,Group Stage,-1,0,0,1,-1,0,1,0,0,0,0,0
+International - FIFA World Cup,2022,3857289,21:00:00.000,Argentina,2,0,Group Stage,2,1,0,0,0,0,0,0,1,1,0,0
+International - FIFA World Cup,2022,3857289,21:00:00.000,Mexico,0,2,Group Stage,-2,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2022,3857290,12:00:00.000,Switzerland,1,0,Group Stage,1,1,0,0,0,0,0,0,0,1,0,0
+International - FIFA World Cup,2022,3857290,12:00:00.000,Cameroon,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2022,3857291,18:00:00.000,Costa Rica,0,7,Group Stage,-7,0,0,3,-3,0,1,0,0,0,0,0
+International - FIFA World Cup,2022,3857291,18:00:00.000,Spain,7,0,Group Stage,7,1,3,0,3,0,0,1,2,5,0,0
+International - FIFA World Cup,2022,3857292,21:00:00.000,Costa Rica,2,4,Group Stage,-2,0,0,1,-1,0,1,0,1,0,0,0
+International - FIFA World Cup,2022,3857292,21:00:00.000,Germany,4,2,Group Stage,2,1,1,0,1,0,0,0,0,4,0,0
+International - FIFA World Cup,2022,3857293,17:00:00.000,Ghana,0,2,Group Stage,-2,0,0,2,-2,0,1,0,0,0,0,0
+International - FIFA World Cup,2022,3857293,17:00:00.000,Uruguay,2,0,Group Stage,2,1,2,0,2,0,0,0,0,0,0,0
+International - FIFA World Cup,2022,3857294,17:00:00.000,Qatar,0,2,Group Stage,-2,0,0,1,-1,0,1,0,0,0,0,0
+International - FIFA World Cup,2022,3857294,17:00:00.000,Netherlands,2,0,Group Stage,2,1,1,0,1,0,0,0,1,1,0,0
+International - FIFA World Cup,2022,3857295,12:00:00.000,Costa Rica,1,0,Group Stage,1,1,0,0,0,0,0,0,0,0,1,0
+International - FIFA World Cup,2022,3857295,12:00:00.000,Japan,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2022,3857296,17:00:00.000,Croatia,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2022,3857296,17:00:00.000,Belgium,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2022,3857297,15:00:00.000,Poland,2,0,Group Stage,2,1,1,0,1,0,0,0,1,1,0,0
+International - FIFA World Cup,2022,3857297,15:00:00.000,Saudi Arabia,0,2,Group Stage,-2,0,0,1,-1,0,1,0,0,0,0,0
+International - FIFA World Cup,2022,3857298,18:00:00.000,Ghana,2,3,Group Stage,-1,0,0,0,0,0,0,0,0,2,0,0
+International - FIFA World Cup,2022,3857298,18:00:00.000,Portugal,3,2,Group Stage,1,1,0,0,0,0,0,0,0,3,0,0
+International - FIFA World Cup,2022,3857299,15:00:00.000,Ghana,3,2,Group Stage,1,1,2,0,2,0,0,0,0,2,1,0
+International - FIFA World Cup,2022,3857299,15:00:00.000,South Korea,2,3,Group Stage,-1,0,0,2,-2,0,1,0,0,2,0,0
+International - FIFA World Cup,2022,3857300,12:00:00.000,Argentina,1,2,Group Stage,-1,0,1,0,1,0,0,0,0,1,0,0
+International - FIFA World Cup,2022,3857300,12:00:00.000,Saudi Arabia,2,1,Group Stage,1,1,0,1,-1,0,1,0,0,1,0,0
+International - FIFA World Cup,2022,3857301,15:00:00.000,Qatar,1,3,Group Stage,-2,0,0,1,-1,0,1,0,0,1,0,0
+International - FIFA World Cup,2022,3857301,15:00:00.000,Senegal,3,1,Group Stage,2,1,1,0,1,0,0,0,1,2,0,0
+International - FIFA World Cup,2022,3869117,17:00:00.000,United States,1,3,Round of 16,-2,0,0,2,-2,0,1,0,0,1,0,0
+International - FIFA World Cup,2022,3869117,17:00:00.000,Netherlands,3,1,Round of 16,2,1,2,0,2,1,0,1,0,1,2,0
+International - FIFA World Cup,2022,3869118,21:00:00.000,Senegal,0,3,Round of 16,-3,0,0,1,-1,0,1,0,0,0,0,0
+International - FIFA World Cup,2022,3869118,21:00:00.000,England,3,0,Round of 16,3,1,1,0,1,0,0,0,1,2,0,0
+International - FIFA World Cup,2022,3869151,21:00:00.000,Argentina,2,1,Round of 16,1,1,1,0,1,0,0,0,0,2,0,0
+International - FIFA World Cup,2022,3869151,21:00:00.000,Australia,1,2,Round of 16,-1,0,0,1,-1,0,1,0,0,0,0,0
+International - FIFA World Cup,2022,3869152,17:00:00.000,Poland,1,3,Round of 16,-2,0,0,1,-1,0,1,1,0,1,0,0
+International - FIFA World Cup,2022,3869152,17:00:00.000,France,3,1,Round of 16,2,1,1,0,1,0,0,1,0,3,0,0
+International - FIFA World Cup,2022,3869219,17:00:00.000,Japan,1,1,Round of 16,0,0,1,0,1,0,0,0,0,2,0,0
+International - FIFA World Cup,2022,3869219,17:00:00.000,Croatia,1,1,Round of 16,0,0,0,1,-1,0,1,0,2,2,0,0
+International - FIFA World Cup,2022,3869220,17:00:00.000,Morocco,0,0,Round of 16,0,0,0,0,0,0,0,0,1,1,1,0
+International - FIFA World Cup,2022,3869220,17:00:00.000,Spain,0,0,Round of 16,0,0,0,0,0,0,0,0,0,0,0,0
+International - FIFA World Cup,2022,3869253,21:00:00.000,Brazil,4,1,Round of 16,3,1,4,0,4,0,0,0,2,2,0,0
+International - FIFA World Cup,2022,3869253,21:00:00.000,South Korea,1,4,Round of 16,-3,0,0,4,-4,0,1,0,1,0,0,0
+International - FIFA World Cup,2022,3869254,21:00:00.000,Switzerland,1,6,Round of 16,-5,0,0,2,-2,0,1,0,0,0,1,0
+International - FIFA World Cup,2022,3869254,21:00:00.000,Portugal,6,1,Round of 16,5,1,2,0,2,0,0,1,0,4,2,0
+International - FIFA World Cup,2022,3869321,21:00:00.000,Netherlands,2,2,Quarter-finals,0,0,0,1,-1,0,1,1,1,4,0,0
+International - FIFA World Cup,2022,3869321,21:00:00.000,Argentina,2,2,Quarter-finals,0,0,1,0,1,0,0,0,1,3,2,0
+International - FIFA World Cup,2022,3869354,21:00:00.000,England,1,2,Quarter-finals,-1,0,0,1,-1,0,1,0,0,1,0,0
+International - FIFA World Cup,2022,3869354,21:00:00.000,France,2,1,Quarter-finals,1,1,1,0,1,0,0,0,1,1,0,0
+International - FIFA World Cup,2022,3869420,17:00:00.000,Croatia,1,1,Quarter-finals,0,0,0,0,0,0,0,0,2,1,0,0
+International - FIFA World Cup,2022,3869420,17:00:00.000,Brazil,1,1,Quarter-finals,0,0,0,0,0,0,0,0,2,1,0,0
+International - FIFA World Cup,2022,3869486,17:00:00.000,Portugal,0,1,Quarter-finals,-1,0,0,1,-1,0,1,0,0,0,0,0
+International - FIFA World Cup,2022,3869486,17:00:00.000,Morocco,1,0,Quarter-finals,1,1,1,0,1,0,0,0,0,1,0,0
+International - FIFA World Cup,2022,3869519,21:00:00.000,Argentina,3,0,Semi-finals,3,1,2,0,2,0,0,0,0,3,0,0
+International - FIFA World Cup,2022,3869519,21:00:00.000,Croatia,0,3,Semi-finals,-3,0,0,2,-2,0,1,0,0,0,0,0
+International - FIFA World Cup,2022,3869552,21:00:00.000,France,2,0,Semi-finals,2,1,1,0,1,0,0,0,0,1,1,0
+International - FIFA World Cup,2022,3869552,21:00:00.000,Morocco,0,2,Semi-finals,-2,0,0,1,-1,0,1,0,0,0,0,0
+International - FIFA World Cup,2022,3869684,17:00:00.000,Morocco,1,2,3rd Place Final,-1,0,1,2,-1,0,1,0,0,0,1,0
+International - FIFA World Cup,2022,3869684,17:00:00.000,Croatia,2,1,3rd Place Final,1,1,2,1,1,0,0,0,0,1,1,0
+International - FIFA World Cup,2022,3869685,17:00:00.000,Argentina,3,3,Final,0,0,2,0,2,0,0,0,2,4,1,0
+International - FIFA World Cup,2022,3869685,17:00:00.000,France,3,3,Final,0,0,0,2,-2,0,1,0,0,5,0,0
+International - Women's World Cup,2023,3893787,10:00:00.000,New Zealand Women's,1,0,Group Stage,1,1,0,0,0,0,0,0,0,1,0,0
+International - Women's World Cup,2023,3893787,10:00:00.000,Norway Women's,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2023,3893788,13:00:00.000,Australia Women's,1,0,Group Stage,1,1,0,0,0,0,0,0,0,0,1,0
+International - Women's World Cup,2023,3893788,13:00:00.000,Republic of Ireland Women's,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2023,3893789,08:00:00.000,Switzerland Women's,2,0,Group Stage,2,1,1,0,1,0,0,0,0,2,0,0
+International - Women's World Cup,2023,3893789,08:00:00.000,Philippines Women's,0,2,Group Stage,-2,0,0,1,-1,0,1,0,0,0,0,0
+International - Women's World Cup,2023,3893790,05:30:00.000,Nigeria Women's,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2023,3893790,05:30:00.000,Canada Women's,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2023,3893791,10:30:00.000,Spain Women's,3,0,Group Stage,3,1,2,0,2,0,0,0,1,1,0,0
+International - Women's World Cup,2023,3893791,10:30:00.000,Costa Rica Women's,0,3,Group Stage,-3,0,0,2,-2,0,1,0,0,0,0,0
+International - Women's World Cup,2023,3893792,04:00:00.000,United States Women's,3,0,Group Stage,3,1,1,0,1,0,0,0,1,2,0,0
+International - Women's World Cup,2023,3893792,04:00:00.000,Vietnam Women's,0,3,Group Stage,-3,0,0,1,-1,0,1,0,0,0,0,0
+International - Women's World Cup,2023,3893793,10:00:00.000,Zambia Women's,0,5,Group Stage,-5,0,0,1,-1,0,1,0,0,0,0,0
+International - Women's World Cup,2023,3893793,10:00:00.000,Japan Women's,5,0,Group Stage,5,1,1,0,1,0,0,1,0,4,1,0
+International - Women's World Cup,2023,3893794,12:30:00.000,England Women's,1,0,Group Stage,1,1,1,0,1,0,0,0,1,0,0,0
+International - Women's World Cup,2023,3893794,12:30:00.000,Haiti Women's,0,1,Group Stage,-1,0,0,1,-1,0,1,0,0,0,0,0
+International - Women's World Cup,2023,3893795,15:00:00.000,China PR Women's,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2023,3893795,15:00:00.000,Denmark Women's,1,0,Group Stage,1,1,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2023,3893796,08:00:00.000,Sweden Women's,2,1,Group Stage,1,1,0,0,0,0,0,0,0,0,1,0
+International - Women's World Cup,2023,3893796,08:00:00.000,South Africa Women's,1,2,Group Stage,-1,0,0,0,0,0,0,0,0,1,0,0
+International - Women's World Cup,2023,3893797,10:30:00.000,Portugal Women's,0,1,Group Stage,-1,0,0,1,-1,0,1,0,0,0,0,0
+International - Women's World Cup,2023,3893797,10:30:00.000,Netherlands Women's,1,0,Group Stage,1,1,1,0,1,0,0,0,0,0,1,0
+International - Women's World Cup,2023,3893798,13:00:00.000,Jamaica Women's,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2023,3893798,13:00:00.000,France Women's,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2023,3893799,11:30:00.000,Morocco Women's,0,6,Group Stage,-6,0,0,2,-2,0,1,0,0,0,0,0
+International - Women's World Cup,2023,3893799,11:30:00.000,Germany Women's,6,0,Group Stage,6,1,2,0,2,0,0,0,0,4,0,0
+International - Women's World Cup,2023,3893800,09:00:00.000,Argentina Women's,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2023,3893800,09:00:00.000,Italy Women's,1,0,Group Stage,1,1,0,0,0,0,0,0,1,0,0,0
+International - Women's World Cup,2023,3893801,14:00:00.000,Brazil Women's,4,0,Group Stage,4,1,2,0,2,0,0,0,0,1,0,0
+International - Women's World Cup,2023,3893801,14:00:00.000,Panama Women's,0,4,Group Stage,-4,0,0,2,-2,0,1,0,0,0,0,0
+International - Women's World Cup,2023,3893802,05:00:00.000,Colombia Women's,2,0,Group Stage,2,1,2,0,2,0,0,0,1,1,0,0
+International - Women's World Cup,2023,3893802,05:00:00.000,Korea Republic Women's,0,2,Group Stage,-2,0,0,2,-2,0,1,0,0,0,0,0
+International - Women's World Cup,2023,3893803,08:30:00.000,Philippines Women's,1,0,Group Stage,1,1,1,0,1,0,0,0,0,1,0,0
+International - Women's World Cup,2023,3893803,08:30:00.000,New Zealand Women's,0,1,Group Stage,-1,0,0,1,-1,0,1,0,0,0,0,0
+International - Women's World Cup,2023,3893804,11:00:00.000,Norway Women's,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2023,3893804,11:00:00.000,Switzerland Women's,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2023,3893805,08:00:00.000,Costa Rica Women's,0,2,Group Stage,-2,0,0,2,-2,0,1,0,0,0,0,0
+International - Women's World Cup,2023,3893805,08:00:00.000,Japan Women's,2,0,Group Stage,2,1,2,0,2,0,0,0,0,0,0,0
+International - Women's World Cup,2023,3893806,10:30:00.000,Zambia Women's,0,5,Group Stage,-5,0,0,2,-2,0,1,0,0,0,0,0
+International - Women's World Cup,2023,3893806,10:30:00.000,Spain Women's,5,0,Group Stage,5,1,2,0,2,0,0,0,2,3,0,0
+International - Women's World Cup,2023,3893807,15:00:00.000,Republic of Ireland Women's,1,2,Group Stage,-1,0,1,0,1,0,0,0,0,0,1,0
+International - Women's World Cup,2023,3893807,15:00:00.000,Canada Women's,2,1,Group Stage,1,1,0,1,-1,0,1,0,0,1,0,0
+International - Women's World Cup,2023,3893808,04:00:00.000,Netherlands Women's,1,1,Group Stage,0,0,1,0,1,0,0,0,1,0,0,0
+International - Women's World Cup,2023,3893808,04:00:00.000,United States Women's,1,1,Group Stage,0,0,0,1,-1,0,1,0,1,0,0,0
+International - Women's World Cup,2023,3893809,13:00:00.000,Australia Women's,2,3,Group Stage,-1,0,1,0,1,1,0,2,0,2,0,0
+International - Women's World Cup,2023,3893809,13:00:00.000,Nigeria Women's,3,2,Group Stage,1,1,0,1,-1,0,1,0,0,2,1,0
+International - Women's World Cup,2023,3893810,10:30:00.000,Portugal Women's,2,0,Group Stage,2,1,2,0,2,0,0,0,1,1,0,0
+International - Women's World Cup,2023,3893810,10:30:00.000,Vietnam Women's,0,2,Group Stage,-2,0,0,2,-2,0,1,0,0,0,0,0
+International - Women's World Cup,2023,3893811,11:30:00.000,Denmark Women's,0,1,Group Stage,-1,0,0,1,-1,0,1,0,0,0,0,0
+International - Women's World Cup,2023,3893811,11:30:00.000,England Women's,1,0,Group Stage,1,1,1,0,1,0,0,0,0,1,0,0
+International - Women's World Cup,2023,3893812,03:00:00.000,South Africa Women's,2,2,Group Stage,0,0,1,0,1,0,0,0,1,1,0,0
+International - Women's World Cup,2023,3893812,03:00:00.000,Argentina Women's,2,2,Group Stage,0,0,0,1,-1,0,1,0,2,0,0,0
+International - Women's World Cup,2023,3893813,14:00:00.000,China PR Women's,1,0,Group Stage,1,1,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2023,3893813,14:00:00.000,Haiti Women's,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2023,3893814,10:30:00.000,Sweden Women's,5,0,Group Stage,5,1,3,0,3,1,0,2,0,3,2,0
+International - Women's World Cup,2023,3893814,10:30:00.000,Italy Women's,0,5,Group Stage,-5,0,0,3,-3,0,1,0,0,0,0,0
+International - Women's World Cup,2023,3893815,13:00:00.000,France Women's,2,1,Group Stage,1,1,1,0,1,0,0,0,0,1,1,0
+International - Women's World Cup,2023,3893815,13:00:00.000,Brazil Women's,1,2,Group Stage,-1,0,0,1,-1,0,1,0,0,1,0,0
+International - Women's World Cup,2023,3893816,15:30:00.000,Jamaica Women's,1,0,Group Stage,1,1,0,0,0,0,0,0,0,0,1,0
+International - Women's World Cup,2023,3893816,15:30:00.000,Panama Women's,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2023,3893817,10:00:00.000,New Zealand Women's,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2023,3893817,10:00:00.000,Switzerland Women's,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2023,3893818,12:30:00.000,Colombia Women's,2,1,Group Stage,1,1,0,0,0,0,0,1,0,1,1,0
+International - Women's World Cup,2023,3893818,12:30:00.000,Germany Women's,1,2,Group Stage,-1,0,0,0,0,0,0,0,1,0,0,0
+International - Women's World Cup,2023,3893819,07:30:00.000,Korea Republic Women's,0,1,Group Stage,-1,0,0,1,-1,0,1,0,0,0,0,0
+International - Women's World Cup,2023,3893819,07:30:00.000,Morocco Women's,1,0,Group Stage,1,1,1,0,1,0,0,0,0,1,0,0
+International - Women's World Cup,2023,3893820,10:00:00.000,Philippines Women's,0,6,Group Stage,-6,0,0,3,-3,0,1,0,0,0,0,0
+International - Women's World Cup,2023,3893820,10:00:00.000,Norway Women's,6,0,Group Stage,6,1,3,0,3,0,0,1,1,3,0,0
+International - Women's World Cup,2023,3893821,13:00:00.000,Australia Women's,4,0,Group Stage,4,1,2,0,2,0,0,1,0,1,1,0
+International - Women's World Cup,2023,3893821,13:00:00.000,Canada Women's,0,4,Group Stage,-4,0,0,2,-2,0,1,0,0,0,0,0
+International - Women's World Cup,2023,3893822,10:00:00.000,Japan Women's,4,0,Group Stage,4,1,3,0,3,0,0,0,0,2,0,0
+International - Women's World Cup,2023,3893822,10:00:00.000,Spain Women's,0,4,Group Stage,-4,0,0,3,-3,0,1,0,0,0,0,0
+International - Women's World Cup,2023,3893823,10:00:00.000,Costa Rica Women's,1,3,Group Stage,-2,0,0,2,-2,0,1,0,0,1,0,0
+International - Women's World Cup,2023,3893823,10:00:00.000,Zambia Women's,3,1,Group Stage,2,1,2,0,2,0,0,1,0,1,1,0
+International - Women's World Cup,2023,3893824,13:00:00.000,Nigeria Women's,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2023,3893824,13:00:00.000,Republic of Ireland Women's,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2023,3893825,14:00:00.000,Haiti Women's,0,2,Group Stage,-2,0,0,1,-1,0,1,0,0,0,0,0
+International - Women's World Cup,2023,3893825,14:00:00.000,Denmark Women's,2,0,Group Stage,2,1,1,0,1,0,0,1,2,0,0,0
+International - Women's World Cup,2023,3893826,10:00:00.000,Portugal Women's,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2023,3893826,10:00:00.000,United States Women's,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2023,3893827,10:00:00.000,Netherlands Women's,7,0,Group Stage,7,1,5,0,5,0,0,0,3,2,2,0
+International - Women's World Cup,2023,3893827,10:00:00.000,Vietnam Women's,0,7,Group Stage,-7,0,0,5,-5,0,1,0,0,0,0,0
+International - Women's World Cup,2023,3893828,14:00:00.000,China PR Women's,1,6,Group Stage,-5,0,0,3,-3,0,1,0,0,1,0,0
+International - Women's World Cup,2023,3893828,14:00:00.000,England Women's,6,1,Group Stage,5,1,3,0,3,0,0,0,2,3,1,0
+International - Women's World Cup,2023,3893829,13:00:00.000,Panama Women's,3,6,Group Stage,-3,0,1,3,-2,0,1,0,0,2,1,0
+International - Women's World Cup,2023,3893829,13:00:00.000,France Women's,6,3,Group Stage,3,1,3,1,2,0,0,1,1,4,1,0
+International - Women's World Cup,2023,3893830,10:00:00.000,Argentina Women's,0,2,Group Stage,-2,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2023,3893830,10:00:00.000,Sweden Women's,2,0,Group Stage,2,1,0,0,0,0,0,0,1,1,0,0
+International - Women's World Cup,2023,3893831,10:00:00.000,Italy Women's,2,3,Group Stage,-1,0,1,0,1,0,0,0,1,0,0,0
+International - Women's World Cup,2023,3893831,10:00:00.000,South Africa Women's,3,2,Group Stage,1,1,0,1,-1,0,1,1,0,2,0,0
+International - Women's World Cup,2023,3893832,13:00:00.000,Jamaica Women's,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2023,3893832,13:00:00.000,Brazil Women's,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2023,3893833,13:00:00.000,Germany Women's,1,1,Group Stage,0,0,1,1,0,0,0,0,1,0,0,0
+International - Women's World Cup,2023,3893833,13:00:00.000,Korea Republic Women's,1,1,Group Stage,0,0,1,1,0,0,0,0,1,0,0,0
+International - Women's World Cup,2023,3893834,13:00:00.000,Morocco Women's,1,0,Group Stage,1,1,0,0,0,0,0,0,1,0,0,0
+International - Women's World Cup,2023,3893834,13:00:00.000,Colombia Women's,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2023,3901733,08:00:00.000,Switzerland Women's,1,5,Round of 16,-4,0,0,4,-4,0,1,0,0,0,0,0
+International - Women's World Cup,2023,3901733,08:00:00.000,Spain Women's,5,1,Round of 16,4,1,4,0,4,0,0,0,3,1,1,0
+International - Women's World Cup,2023,3901734,11:00:00.000,Japan Women's,3,1,Round of 16,2,1,0,1,-1,0,1,0,0,0,1,0
+International - Women's World Cup,2023,3901734,11:00:00.000,Norway Women's,1,3,Round of 16,-2,0,1,0,1,0,0,0,1,0,0,0
+International - Women's World Cup,2023,3901735,10:30:00.000,England Women's,0,0,Round of 16,0,0,0,0,0,0,0,0,0,1,1,0
+International - Women's World Cup,2023,3901735,10:30:00.000,Nigeria Women's,0,0,Round of 16,0,0,0,0,0,0,0,0,1,0,1,0
+International - Women's World Cup,2023,3901736,13:30:00.000,Australia Women's,2,0,Round of 16,2,1,1,0,1,0,0,0,0,0,0,0
+International - Women's World Cup,2023,3901736,13:30:00.000,Denmark Women's,0,2,Round of 16,-2,0,0,1,-1,0,1,0,0,0,0,0
+International - Women's World Cup,2023,3901796,05:00:00.000,South Africa Women's,0,2,Round of 16,-2,0,0,1,-1,0,1,0,0,0,0,0
+International - Women's World Cup,2023,3901796,05:00:00.000,Netherlands Women's,2,0,Round of 16,2,1,1,0,1,0,0,0,1,1,0,0
+International - Women's World Cup,2023,3901797,12:00:00.000,United States Women's,0,0,Round of 16,0,0,0,0,0,0,0,0,3,0,0,1
+International - Women's World Cup,2023,3901797,12:00:00.000,Sweden Women's,0,0,Round of 16,0,0,0,0,0,0,0,0,3,1,1,0
+International - Women's World Cup,2023,3901832,11:00:00.000,Jamaica Women's,0,1,Round of 16,-1,0,0,0,0,0,0,0,0,0,0,0
+International - Women's World Cup,2023,3901832,11:00:00.000,Colombia Women's,1,0,Round of 16,1,1,0,0,0,0,0,0,0,1,0,0
+International - Women's World Cup,2023,3901833,14:00:00.000,Morocco Women's,0,4,Round of 16,-4,0,0,3,-3,0,1,0,0,0,0,0
+International - Women's World Cup,2023,3901833,14:00:00.000,France Women's,4,0,Round of 16,4,1,3,0,3,0,0,0,2,1,0,0
+International - Women's World Cup,2023,3902239,10:30:00.000,Sweden Women's,2,1,Quarter-finals,1,1,1,0,1,0,0,0,1,0,1,0
+International - Women's World Cup,2023,3902239,10:30:00.000,Japan Women's,1,2,Quarter-finals,-1,0,0,1,-1,0,1,0,1,0,0,0
+International - Women's World Cup,2023,3902240,04:00:00.000,Netherlands Women's,1,2,Quarter-finals,-1,0,0,0,0,0,0,1,0,1,0,0
+International - Women's World Cup,2023,3902240,04:00:00.000,Spain Women's,2,1,Quarter-finals,1,1,0,0,0,0,0,0,0,2,0,0
+International - Women's World Cup,2023,3902967,13:30:00.000,Colombia Women's,1,2,Quarter-finals,-1,0,1,0,1,0,0,0,1,0,0,0
+International - Women's World Cup,2023,3902967,13:30:00.000,England Women's,2,1,Quarter-finals,1,1,0,1,-1,0,1,0,0,2,0,0
+International - Women's World Cup,2023,3902968,10:00:00.000,Australia Women's,0,0,Quarter-finals,0,0,0,0,0,0,0,0,2,2,1,0
+International - Women's World Cup,2023,3902968,10:00:00.000,France Women's,0,0,Quarter-finals,0,0,0,0,0,0,0,0,1,2,3,0
+International - Women's World Cup,2023,3904628,11:00:00.000,Sweden Women's,1,2,Semi-finals,-1,0,0,0,0,0,0,0,0,1,0,0
+International - Women's World Cup,2023,3904628,11:00:00.000,Spain Women's,2,1,Semi-finals,1,1,0,0,0,0,0,0,0,1,1,0
+International - Women's World Cup,2023,3904629,13:00:00.000,England Women's,3,1,Semi-finals,2,1,1,0,1,0,0,0,1,2,0,0
+International - Women's World Cup,2023,3904629,13:00:00.000,Australia Women's,1,3,Semi-finals,-2,0,0,1,-1,0,1,0,0,1,0,0
+International - Women's World Cup,2023,3906389,11:00:00.000,Sweden Women's,2,0,3rd Place Final,2,1,1,0,1,0,0,0,1,1,0,0
+International - Women's World Cup,2023,3906389,11:00:00.000,Australia Women's,0,2,3rd Place Final,-2,0,0,1,-1,0,1,0,0,0,0,0
+International - Women's World Cup,2023,3906390,13:00:00.000,Spain Women's,1,0,Final,1,1,1,0,1,0,0,0,0,0,1,0
+International - Women's World Cup,2023,3906390,13:00:00.000,England Women's,0,1,Final,-1,0,0,1,-1,0,1,0,0,0,0,0
+Africa - African Cup of Nations,2023,3920384,22:00:00.000,Côte d'Ivoire,2,0,Group Stage,2,1,1,0,1,0,0,0,1,1,0,0
+Africa - African Cup of Nations,2023,3920384,22:00:00.000,Guinea-Bissau,0,2,Group Stage,-2,0,0,1,-1,0,1,0,0,0,0,0
+Africa - African Cup of Nations,2023,3920385,19:00:00.000,Egypt,2,2,Group Stage,0,0,1,0,1,0,0,1,0,1,0,0
+Africa - African Cup of Nations,2023,3920385,19:00:00.000,Mozambique,2,2,Group Stage,0,0,0,1,-1,0,1,0,1,0,0,0
+Africa - African Cup of Nations,2023,3920386,16:00:00.000,Nigeria,1,1,Group Stage,0,0,1,1,0,0,0,0,0,1,0,0
+Africa - African Cup of Nations,2023,3920386,16:00:00.000,Equatorial Guinea,1,1,Group Stage,0,0,1,1,0,0,0,0,0,1,0,0
+Africa - African Cup of Nations,2023,3920387,22:00:00.000,Ghana,1,2,Group Stage,-1,0,0,1,-1,0,1,0,0,0,1,0
+Africa - African Cup of Nations,2023,3920387,22:00:00.000,Cape Verde Islands,2,1,Group Stage,1,1,1,0,1,0,0,1,1,1,0,0
+Africa - African Cup of Nations,2023,3920388,16:00:00.000,Senegal,3,0,Group Stage,3,1,1,0,1,0,0,0,3,0,0,0
+Africa - African Cup of Nations,2023,3920388,16:00:00.000,Gambia,0,3,Group Stage,-3,0,0,1,-1,0,1,0,0,0,0,0
+Africa - African Cup of Nations,2023,3920389,19:00:00.000,Guinea,1,1,Group Stage,0,0,1,0,1,0,0,0,0,1,0,0
+Africa - African Cup of Nations,2023,3920389,19:00:00.000,Cameroon,1,1,Group Stage,0,0,0,1,-1,0,1,0,0,1,0,0
+Africa - African Cup of Nations,2023,3920390,22:00:00.000,Angola,1,1,Group Stage,0,0,0,1,-1,0,1,0,0,1,0,0
+Africa - African Cup of Nations,2023,3920390,22:00:00.000,Algeria,1,1,Group Stage,0,0,1,0,1,0,0,0,0,1,0,0
+Africa - African Cup of Nations,2023,3920391,22:00:00.000,Mali,2,0,Group Stage,2,1,0,0,0,0,0,0,0,1,1,0
+Africa - African Cup of Nations,2023,3920391,22:00:00.000,South Africa,0,2,Group Stage,-2,0,0,0,0,0,0,0,0,0,0,0
+Africa - African Cup of Nations,2023,3920392,16:00:00.000,Burkina Faso,1,0,Group Stage,1,1,0,0,0,0,0,1,0,1,0,0
+Africa - African Cup of Nations,2023,3920392,16:00:00.000,Mauritania,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+Africa - African Cup of Nations,2023,3920393,19:00:00.000,Tunisia,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+Africa - African Cup of Nations,2023,3920393,19:00:00.000,Namibia,1,0,Group Stage,1,1,0,0,0,0,0,0,0,1,0,0
+Africa - African Cup of Nations,2023,3920394,19:00:00.000,Morocco,3,0,Group Stage,3,1,1,0,1,0,0,0,1,1,1,0
+Africa - African Cup of Nations,2023,3920394,19:00:00.000,Tanzania,0,3,Group Stage,-3,0,0,1,-1,0,1,0,0,0,0,0
+Africa - African Cup of Nations,2023,3920395,22:00:00.000,Zambia,1,1,Group Stage,0,0,1,1,0,0,0,0,1,0,0,0
+Africa - African Cup of Nations,2023,3920395,22:00:00.000,Congo DR,1,1,Group Stage,0,0,1,1,0,0,0,0,0,1,0,0
+Africa - African Cup of Nations,2023,3920396,22:00:00.000,Egypt,2,2,Group Stage,0,0,0,0,0,0,0,0,0,2,0,0
+Africa - African Cup of Nations,2023,3920396,22:00:00.000,Ghana,2,2,Group Stage,0,0,0,0,0,0,0,0,2,0,0,0
+Africa - African Cup of Nations,2023,3920397,16:00:00.000,Guinea-Bissau,2,4,Group Stage,-2,0,0,1,-1,0,1,1,0,1,0,0
+Africa - African Cup of Nations,2023,3920397,16:00:00.000,Equatorial Guinea,4,2,Group Stage,2,1,1,0,1,0,0,0,0,4,0,0
+Africa - African Cup of Nations,2023,3920398,19:00:00.000,Côte d'Ivoire,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+Africa - African Cup of Nations,2023,3920398,19:00:00.000,Nigeria,1,0,Group Stage,1,1,0,0,0,0,0,0,0,0,1,0
+Africa - African Cup of Nations,2023,3920399,16:00:00.000,Cape Verde Islands,3,0,Group Stage,3,1,1,0,1,0,0,0,1,1,0,0
+Africa - African Cup of Nations,2023,3920399,16:00:00.000,Mozambique,0,3,Group Stage,-3,0,0,1,-1,0,1,0,0,0,0,0
+Africa - African Cup of Nations,2023,3920400,19:00:00.000,Senegal,3,1,Group Stage,2,1,1,0,1,0,0,1,0,1,0,0
+Africa - African Cup of Nations,2023,3920400,19:00:00.000,Cameroon,1,3,Group Stage,-2,0,0,1,-1,0,1,0,0,0,1,0
+Africa - African Cup of Nations,2023,3920401,22:00:00.000,Gambia,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+Africa - African Cup of Nations,2023,3920401,22:00:00.000,Guinea,1,0,Group Stage,1,1,0,0,0,0,0,0,1,0,0,0
+Africa - African Cup of Nations,2023,3920402,16:00:00.000,Algeria,2,2,Group Stage,0,0,0,0,0,0,0,1,0,2,0,0
+Africa - African Cup of Nations,2023,3920402,16:00:00.000,Burkina Faso,2,2,Group Stage,0,0,0,0,0,0,0,0,0,2,0,0
+Africa - African Cup of Nations,2023,3920403,19:00:00.000,Mauritania,2,3,Group Stage,-1,0,1,1,0,0,0,0,0,0,0,0
+Africa - African Cup of Nations,2023,3920403,19:00:00.000,Angola,3,2,Group Stage,1,1,1,1,0,0,0,0,0,3,0,0
+Africa - African Cup of Nations,2023,3920404,22:00:00.000,Mali,1,1,Group Stage,0,0,1,1,0,0,0,0,0,1,0,0
+Africa - African Cup of Nations,2023,3920404,22:00:00.000,Tunisia,1,1,Group Stage,0,0,1,1,0,0,0,0,0,0,0,0
+Africa - African Cup of Nations,2023,3920405,16:00:00.000,Morocco,1,1,Group Stage,0,0,1,0,1,0,0,0,0,0,1,0
+Africa - African Cup of Nations,2023,3920405,16:00:00.000,Congo DR,1,1,Group Stage,0,0,0,1,-1,0,1,0,0,1,0,0
+Africa - African Cup of Nations,2023,3920406,19:00:00.000,Zambia,1,1,Group Stage,0,0,0,1,-1,0,1,0,0,1,0,0
+Africa - African Cup of Nations,2023,3920406,19:00:00.000,Tanzania,1,1,Group Stage,0,0,1,0,1,0,0,0,0,1,0,0
+Africa - African Cup of Nations,2023,3920407,22:00:00.000,Namibia,0,4,Group Stage,-4,0,0,3,-3,0,1,0,0,0,0,0
+Africa - African Cup of Nations,2023,3920407,22:00:00.000,South Africa,4,0,Group Stage,4,1,3,0,3,0,0,0,2,2,0,0
+Africa - African Cup of Nations,2023,3920408,19:00:00.000,Côte d'Ivoire,0,4,Group Stage,-4,0,0,1,-1,0,1,0,0,0,0,0
+Africa - African Cup of Nations,2023,3920408,19:00:00.000,Equatorial Guinea,4,0,Group Stage,4,1,1,0,1,0,0,0,2,2,0,0
+Africa - African Cup of Nations,2023,3920409,19:00:00.000,Guinea-Bissau,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+Africa - African Cup of Nations,2023,3920409,19:00:00.000,Nigeria,1,0,Group Stage,1,1,0,0,0,0,0,0,0,0,0,0
+Africa - African Cup of Nations,2023,3920410,22:00:00.000,Ghana,2,2,Group Stage,0,0,1,0,1,0,0,0,0,2,0,0
+Africa - African Cup of Nations,2023,3920410,22:00:00.000,Mozambique,2,2,Group Stage,0,0,0,1,-1,0,1,2,0,1,1,0
+Africa - African Cup of Nations,2023,3920411,22:00:00.000,Cape Verde Islands,2,2,Group Stage,0,0,1,0,1,1,0,2,0,2,0,0
+Africa - African Cup of Nations,2023,3920411,22:00:00.000,Egypt,2,2,Group Stage,0,0,0,1,-1,0,1,1,0,1,0,0
+Africa - African Cup of Nations,2023,3920412,19:00:00.000,Senegal,2,0,Group Stage,2,1,0,0,0,0,0,0,0,0,1,0
+Africa - African Cup of Nations,2023,3920412,19:00:00.000,Guinea,0,2,Group Stage,-2,0,0,0,0,0,0,0,0,0,0,0
+Africa - African Cup of Nations,2023,3920413,19:00:00.000,Cameroon,3,2,Group Stage,1,1,0,0,0,0,0,1,0,1,1,0
+Africa - African Cup of Nations,2023,3920413,19:00:00.000,Gambia,2,3,Group Stage,-1,0,0,0,0,0,0,0,2,0,0,0
+Africa - African Cup of Nations,2023,3920414,22:00:00.000,Angola,2,0,Group Stage,2,1,1,0,1,0,0,1,0,2,0,0
+Africa - African Cup of Nations,2023,3920414,22:00:00.000,Burkina Faso,0,2,Group Stage,-2,0,0,1,-1,0,1,0,0,0,0,0
+Africa - African Cup of Nations,2023,3920415,22:00:00.000,Mauritania,1,0,Group Stage,1,1,1,0,1,0,0,0,0,0,1,0
+Africa - African Cup of Nations,2023,3920415,22:00:00.000,Algeria,0,1,Group Stage,-1,0,0,1,-1,0,1,0,0,0,0,0
+Africa - African Cup of Nations,2023,3920416,19:00:00.000,Tunisia,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+Africa - African Cup of Nations,2023,3920416,19:00:00.000,South Africa,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+Africa - African Cup of Nations,2023,3920417,19:00:00.000,Mali,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+Africa - African Cup of Nations,2023,3920417,19:00:00.000,Namibia,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+Africa - African Cup of Nations,2023,3920418,22:00:00.000,Tanzania,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+Africa - African Cup of Nations,2023,3920418,22:00:00.000,Congo DR,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+Africa - African Cup of Nations,2023,3920419,22:00:00.000,Morocco,1,0,Group Stage,1,1,1,0,1,0,0,0,0,0,0,0
+Africa - African Cup of Nations,2023,3920419,22:00:00.000,Zambia,0,1,Group Stage,-1,0,0,1,-1,0,1,0,0,0,0,0
+Africa - African Cup of Nations,2023,3922237,19:00:00.000,Namibia,0,3,Round of 16,-3,0,0,2,-2,0,1,0,0,0,0,0
+Africa - African Cup of Nations,2023,3922237,19:00:00.000,Angola,3,0,Round of 16,3,1,2,0,2,0,0,0,0,1,0,0
+Africa - African Cup of Nations,2023,3922238,22:00:00.000,Cameroon,0,2,Round of 16,-2,0,0,1,-1,0,1,0,0,0,0,0
+Africa - African Cup of Nations,2023,3922238,22:00:00.000,Nigeria,2,0,Round of 16,2,1,1,0,1,0,0,0,0,2,0,0
+Africa - African Cup of Nations,2023,3922239,19:00:00.000,Equatorial Guinea,0,1,Round of 16,-1,0,0,0,0,0,0,0,0,0,0,0
+Africa - African Cup of Nations,2023,3922239,19:00:00.000,Guinea,1,0,Round of 16,1,1,0,0,0,0,0,1,0,1,0,0
+Africa - African Cup of Nations,2023,3922240,22:00:00.000,Egypt,1,1,Round of 16,0,0,1,1,0,1,0,1,1,1,4,0
+Africa - African Cup of Nations,2023,3922240,22:00:00.000,Congo DR,1,1,Round of 16,0,0,1,1,0,0,0,0,2,3,3,1
+Africa - African Cup of Nations,2023,3922241,19:00:00.000,Cape Verde Islands,1,0,Round of 16,1,1,0,0,0,0,0,0,0,1,0,0
+Africa - African Cup of Nations,2023,3922241,19:00:00.000,Mauritania,0,1,Round of 16,-1,0,0,0,0,0,0,0,0,0,0,0
+Africa - African Cup of Nations,2023,3922242,22:00:00.000,Côte d'Ivoire,1,1,Round of 16,0,0,0,1,-1,0,1,0,3,1,1,0
+Africa - African Cup of Nations,2023,3922242,22:00:00.000,Senegal,1,1,Round of 16,0,0,1,0,1,0,0,0,1,2,1,0
+Africa - African Cup of Nations,2023,3922243,22:00:00.000,South Africa,2,0,Round of 16,2,1,0,0,0,0,0,1,1,1,0,0
+Africa - African Cup of Nations,2023,3922243,22:00:00.000,Morocco,0,2,Round of 16,-2,0,0,0,0,0,0,0,0,0,0,0
+Africa - African Cup of Nations,2023,3922244,19:00:00.000,Burkina Faso,1,2,Round of 16,-1,0,0,0,0,0,0,0,0,1,0,0
+Africa - African Cup of Nations,2023,3922244,19:00:00.000,Mali,2,1,Round of 16,1,1,0,0,0,0,0,0,0,1,0,0
+Africa - African Cup of Nations,2023,3922321,19:00:00.000,Angola,0,1,Quarter-finals,-1,0,0,1,-1,0,1,0,0,0,0,0
+Africa - African Cup of Nations,2023,3922321,19:00:00.000,Nigeria,1,0,Quarter-finals,1,1,1,0,1,0,0,0,0,0,0,0
+Africa - African Cup of Nations,2023,3922356,22:00:00.000,Congo DR,3,1,Quarter-finals,2,1,1,1,0,0,0,0,0,0,2,0
+Africa - African Cup of Nations,2023,3922356,22:00:00.000,Guinea,1,3,Quarter-finals,-2,0,1,1,0,0,0,0,0,1,0,0
+Africa - African Cup of Nations,2023,3922658,22:00:00.000,Cape Verde Islands,0,0,Quarter-finals,0,0,0,0,0,0,0,0,1,0,0,0
+Africa - African Cup of Nations,2023,3922658,22:00:00.000,South Africa,0,0,Quarter-finals,0,0,0,0,0,0,0,0,1,0,1,0
+Africa - African Cup of Nations,2023,3922659,19:00:00.000,Côte d'Ivoire,2,1,Quarter-finals,1,1,0,0,0,0,0,0,1,0,1,0
+Africa - African Cup of Nations,2023,3922659,19:00:00.000,Mali,1,2,Quarter-finals,-1,0,0,0,0,0,0,0,0,1,0,0
+Africa - African Cup of Nations,2023,3922837,19:00:00.000,Nigeria,1,1,Semi-finals,0,0,0,0,0,0,0,0,0,2,3,0
+Africa - African Cup of Nations,2023,3922837,19:00:00.000,South Africa,1,1,Semi-finals,0,0,0,0,0,0,0,0,1,0,1,0
+Africa - African Cup of Nations,2023,3922838,22:00:00.000,Congo DR,0,1,Semi-finals,-1,0,0,0,0,0,0,0,0,0,0,0
+Africa - African Cup of Nations,2023,3922838,22:00:00.000,Côte d'Ivoire,1,0,Semi-finals,1,1,0,0,0,0,0,0,0,1,0,0
+Africa - African Cup of Nations,2023,3923880,22:00:00.000,Congo DR,0,0,3rd Place Final,0,0,0,0,0,0,0,0,2,2,1,0
+Africa - African Cup of Nations,2023,3923880,22:00:00.000,South Africa,0,0,3rd Place Final,0,0,0,0,0,0,0,0,1,3,2,0
+Africa - African Cup of Nations,2023,3923881,22:00:00.000,Nigeria,1,2,Final,-1,0,1,0,1,0,0,0,0,0,1,0
+Africa - African Cup of Nations,2023,3923881,22:00:00.000,Côte d'Ivoire,2,1,Final,1,1,0,1,-1,0,1,0,1,1,0,0
+Europe - UEFA Euro,2024,3930158,22:00:00.000,Scotland,1,5,Group Stage,-4,0,0,3,-3,0,1,0,0,0,0,0
+Europe - UEFA Euro,2024,3930158,22:00:00.000,Germany,5,1,Group Stage,4,1,3,0,3,1,0,2,1,4,0,0
+Europe - UEFA Euro,2024,3930159,16:00:00.000,Switzerland,3,1,Group Stage,2,1,2,0,2,0,0,1,0,2,1,0
+Europe - UEFA Euro,2024,3930159,16:00:00.000,Hungary,1,3,Group Stage,-2,0,0,2,-2,0,1,0,0,0,0,0
+Europe - UEFA Euro,2024,3930160,19:00:00.000,Croatia,0,3,Group Stage,-3,0,0,2,-2,0,1,0,0,0,0,0
+Europe - UEFA Euro,2024,3930160,19:00:00.000,Spain,3,0,Group Stage,3,1,2,0,2,0,0,0,1,1,1,0
+Europe - UEFA Euro,2024,3930161,22:00:00.000,Albania,1,2,Group Stage,-1,0,1,2,-1,0,1,0,1,0,0,0
+Europe - UEFA Euro,2024,3930161,22:00:00.000,Italy,2,1,Group Stage,1,1,2,1,1,0,0,0,1,0,1,0
+Europe - UEFA Euro,2024,3930162,19:00:00.000,Denmark,1,1,Group Stage,0,0,1,0,1,0,0,0,1,0,0,0
+Europe - UEFA Euro,2024,3930162,19:00:00.000,Slovenia,1,1,Group Stage,0,0,0,1,-1,0,1,0,0,0,1,0
+Europe - UEFA Euro,2024,3930163,22:00:00.000,England,1,0,Group Stage,1,1,1,0,1,0,0,0,1,0,0,0
+Europe - UEFA Euro,2024,3930163,22:00:00.000,Serbia,0,1,Group Stage,-1,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Euro,2024,3930164,19:00:00.000,Slovakia,1,0,Group Stage,1,1,1,0,1,0,0,0,0,1,0,0
+Europe - UEFA Euro,2024,3930164,19:00:00.000,Belgium,0,1,Group Stage,-1,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Euro,2024,3930165,22:00:00.000,Austria,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2024,3930165,22:00:00.000,France,1,0,Group Stage,1,1,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2024,3930166,22:00:00.000,Portugal,2,1,Group Stage,1,1,0,0,0,0,0,1,1,0,0,0
+Europe - UEFA Euro,2024,3930166,22:00:00.000,Czech Republic,1,2,Group Stage,-1,0,0,0,0,0,0,0,1,0,0,0
+Europe - UEFA Euro,2024,3930167,16:00:00.000,Croatia,2,2,Group Stage,0,0,0,1,-1,0,1,0,0,1,0,0
+Europe - UEFA Euro,2024,3930167,16:00:00.000,Albania,2,2,Group Stage,0,0,1,0,1,0,0,1,2,0,0,0
+Europe - UEFA Euro,2024,3930168,19:00:00.000,Germany,2,0,Group Stage,2,1,1,0,1,0,0,0,1,1,0,0
+Europe - UEFA Euro,2024,3930168,19:00:00.000,Hungary,0,2,Group Stage,-2,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Euro,2024,3930169,22:00:00.000,Scotland,1,1,Group Stage,0,0,1,1,0,0,0,0,1,0,0,0
+Europe - UEFA Euro,2024,3930169,22:00:00.000,Switzerland,1,1,Group Stage,0,0,1,1,0,0,0,0,1,0,0,0
+Europe - UEFA Euro,2024,3930170,16:00:00.000,Serbia,1,1,Group Stage,0,0,0,0,0,0,0,1,0,1,0,0
+Europe - UEFA Euro,2024,3930170,16:00:00.000,Slovenia,1,1,Group Stage,0,0,0,0,0,0,0,0,0,0,1,0
+Europe - UEFA Euro,2024,3930171,19:00:00.000,Denmark,1,1,Group Stage,0,0,1,1,0,0,0,0,1,0,0,0
+Europe - UEFA Euro,2024,3930171,19:00:00.000,England,1,1,Group Stage,0,0,1,1,0,0,0,0,0,1,0,0
+Europe - UEFA Euro,2024,3930172,22:00:00.000,Spain,1,0,Group Stage,1,1,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2024,3930172,22:00:00.000,Italy,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2024,3930173,22:00:00.000,France,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2024,3930173,22:00:00.000,Netherlands,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2024,3930174,19:00:00.000,Portugal,3,0,Group Stage,3,1,1,0,1,0,0,0,1,1,0,0
+Europe - UEFA Euro,2024,3930174,19:00:00.000,Turkey,0,3,Group Stage,-3,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Euro,2024,3930175,22:00:00.000,Belgium,2,0,Group Stage,2,1,1,0,1,0,0,0,2,0,0,0
+Europe - UEFA Euro,2024,3930175,22:00:00.000,Romania,0,2,Group Stage,-2,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Euro,2024,3930176,22:00:00.000,Germany,1,1,Group Stage,0,0,0,1,-1,0,1,1,0,1,0,0
+Europe - UEFA Euro,2024,3930176,22:00:00.000,Switzerland,1,1,Group Stage,0,0,1,0,1,0,0,0,0,0,0,0
+Europe - UEFA Euro,2024,3930177,22:00:00.000,Scotland,0,1,Group Stage,-1,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2024,3930177,22:00:00.000,Hungary,1,0,Group Stage,1,1,0,0,0,0,0,1,0,0,1,0
+Europe - UEFA Euro,2024,3930178,22:00:00.000,Croatia,1,1,Group Stage,0,0,0,0,0,0,0,0,1,0,0,0
+Europe - UEFA Euro,2024,3930178,22:00:00.000,Italy,1,1,Group Stage,0,0,0,0,0,0,0,1,0,0,1,0
+Europe - UEFA Euro,2024,3930179,22:00:00.000,Albania,0,1,Group Stage,-1,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Euro,2024,3930179,22:00:00.000,Spain,1,0,Group Stage,1,1,1,0,1,0,0,0,0,1,0,0
+Europe - UEFA Euro,2024,3930180,19:00:00.000,Netherlands,2,3,Group Stage,-1,0,0,0,0,0,0,0,1,1,0,0
+Europe - UEFA Euro,2024,3930180,19:00:00.000,Austria,3,2,Group Stage,1,1,0,0,0,0,0,0,0,2,0,0
+Europe - UEFA Euro,2024,3930181,22:00:00.000,England,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2024,3930181,22:00:00.000,Slovenia,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2024,3930182,22:00:00.000,Serbia,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2024,3930182,22:00:00.000,Denmark,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2024,3930183,19:00:00.000,Slovakia,1,1,Group Stage,0,0,1,1,0,0,0,0,1,0,0,0
+Europe - UEFA Euro,2024,3930183,19:00:00.000,Romania,1,1,Group Stage,0,0,1,1,0,0,0,0,1,0,0,0
+Europe - UEFA Euro,2024,3930184,22:00:00.000,Turkey,2,1,Group Stage,1,1,0,0,0,0,0,1,1,1,0,0
+Europe - UEFA Euro,2024,3930184,22:00:00.000,Czech Republic,1,2,Group Stage,-1,0,0,0,0,0,0,0,1,0,0,0
+Europe - UEFA Euro,2024,3938637,16:00:00.000,Poland,1,2,Group Stage,-1,0,1,1,0,0,0,0,0,1,0,0
+Europe - UEFA Euro,2024,3938637,16:00:00.000,Netherlands,2,1,Group Stage,1,1,1,1,0,0,0,0,0,2,0,0
+Europe - UEFA Euro,2024,3938638,16:00:00.000,Romania,3,0,Group Stage,3,1,1,0,1,0,0,0,2,1,0,0
+Europe - UEFA Euro,2024,3938638,16:00:00.000,Ukraine,0,3,Group Stage,-3,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Euro,2024,3938639,19:00:00.000,Georgia,1,3,Group Stage,-2,0,1,1,0,0,0,0,0,1,0,0
+Europe - UEFA Euro,2024,3938639,19:00:00.000,Turkey,3,1,Group Stage,2,1,1,1,0,0,0,1,0,2,1,0
+Europe - UEFA Euro,2024,3938640,16:00:00.000,Ukraine,2,1,Group Stage,1,1,0,1,-1,0,1,0,1,1,0,0
+Europe - UEFA Euro,2024,3938640,16:00:00.000,Slovakia,1,2,Group Stage,-1,0,1,0,1,0,0,0,0,1,0,0
+Europe - UEFA Euro,2024,3938641,19:00:00.000,Austria,3,1,Group Stage,2,1,1,1,0,0,0,0,1,1,1,0
+Europe - UEFA Euro,2024,3938641,19:00:00.000,Poland,1,3,Group Stage,-2,0,1,1,0,0,0,0,0,1,0,0
+Europe - UEFA Euro,2024,3938642,16:00:00.000,Czech Republic,1,1,Group Stage,0,0,0,0,0,0,0,0,0,1,0,0
+Europe - UEFA Euro,2024,3938642,16:00:00.000,Georgia,1,1,Group Stage,0,0,0,0,0,0,0,0,0,1,0,0
+Europe - UEFA Euro,2024,3938643,19:00:00.000,Poland,1,1,Group Stage,0,0,0,0,0,0,0,0,0,1,0,0
+Europe - UEFA Euro,2024,3938643,19:00:00.000,France,1,1,Group Stage,0,0,0,0,0,0,0,0,0,1,0,0
+Europe - UEFA Euro,2024,3938644,22:00:00.000,Portugal,0,2,Group Stage,-2,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Euro,2024,3938644,22:00:00.000,Georgia,2,0,Group Stage,2,1,1,0,1,0,0,0,0,2,0,0
+Europe - UEFA Euro,2024,3938645,19:00:00.000,Ukraine,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2024,3938645,19:00:00.000,Belgium,0,0,Group Stage,0,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2024,3940878,19:00:00.000,Italy,0,2,Round of 16,-2,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Euro,2024,3940878,19:00:00.000,Switzerland,2,0,Round of 16,2,1,1,0,1,0,0,0,1,0,0,0
+Europe - UEFA Euro,2024,3940983,22:00:00.000,Germany,2,0,Round of 16,2,1,0,0,0,0,0,0,0,2,0,0
+Europe - UEFA Euro,2024,3940983,22:00:00.000,Denmark,0,2,Round of 16,-2,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2024,3941017,19:00:00.000,England,2,1,Round of 16,1,1,0,1,-1,0,1,1,1,1,0,0
+Europe - UEFA Euro,2024,3941017,19:00:00.000,Slovakia,1,2,Round of 16,-1,0,1,0,1,0,0,0,0,1,0,0
+Europe - UEFA Euro,2024,3941018,22:00:00.000,Spain,4,1,Round of 16,3,1,1,0,1,0,0,0,3,1,0,0
+Europe - UEFA Euro,2024,3941018,22:00:00.000,Georgia,1,4,Round of 16,-3,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Euro,2024,3941019,19:00:00.000,France,1,0,Round of 16,1,1,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2024,3941019,19:00:00.000,Belgium,0,1,Round of 16,-1,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2024,3941020,22:00:00.000,Portugal,0,0,Round of 16,0,0,0,0,0,0,0,0,1,2,0,0
+Europe - UEFA Euro,2024,3941020,22:00:00.000,Slovenia,0,0,Round of 16,0,0,0,0,0,0,0,0,0,0,0,0
+Europe - UEFA Euro,2024,3941021,19:00:00.000,Netherlands,3,0,Round of 16,3,1,1,0,1,0,0,1,0,3,0,0
+Europe - UEFA Euro,2024,3941021,19:00:00.000,Romania,0,3,Round of 16,-3,0,0,1,-1,0,1,0,0,0,0,0
+Europe - UEFA Euro,2024,3941022,22:00:00.000,Austria,1,2,Round of 16,-1,0,0,1,-1,0,1,0,0,1,0,0
+Europe - UEFA Euro,2024,3941022,22:00:00.000,Turkey,2,1,Round of 16,1,1,1,0,1,0,0,0,0,0,2,0
+Europe - UEFA Euro,2024,3942226,19:00:00.000,Spain,2,1,Quarter-finals,1,1,0,0,0,0,0,0,2,0,0,0
+Europe - UEFA Euro,2024,3942226,19:00:00.000,Germany,1,2,Quarter-finals,-1,0,0,0,0,0,0,0,1,0,0,0
+Europe - UEFA Euro,2024,3942227,19:00:00.000,England,1,1,Quarter-finals,0,0,0,0,0,0,0,0,1,1,3,0
+Europe - UEFA Euro,2024,3942227,19:00:00.000,Switzerland,1,1,Quarter-finals,0,0,0,0,0,0,0,0,0,2,1,0
+Europe - UEFA Euro,2024,3942349,22:00:00.000,France,0,0,Quarter-finals,0,0,0,0,0,0,0,0,1,2,2,0
+Europe - UEFA Euro,2024,3942349,22:00:00.000,Portugal,0,0,Quarter-finals,0,0,0,0,0,0,0,0,1,1,1,0
+Europe - UEFA Euro,2024,3942382,22:00:00.000,Turkey,1,2,Quarter-finals,-1,0,1,0,1,0,0,0,0,0,1,0
+Europe - UEFA Euro,2024,3942382,22:00:00.000,Netherlands,2,1,Quarter-finals,1,1,0,1,-1,0,1,0,0,0,1,0
+Europe - UEFA Euro,2024,3942752,22:00:00.000,Spain,2,1,Semi-finals,1,1,2,1,1,0,0,0,1,1,0,0
+Europe - UEFA Euro,2024,3942752,22:00:00.000,France,1,2,Semi-finals,-1,0,1,2,-1,0,1,0,0,1,0,0
+Europe - UEFA Euro,2024,3942819,22:00:00.000,England,2,1,Semi-finals,1,1,1,1,0,0,0,1,0,2,0,0
+Europe - UEFA Euro,2024,3942819,22:00:00.000,Netherlands,1,2,Semi-finals,-1,0,1,1,0,0,0,0,1,0,0,0
+Europe - UEFA Euro,2024,3943043,22:00:00.000,Spain,2,1,Final,1,1,0,0,0,0,0,0,0,2,0,0
+Europe - UEFA Euro,2024,3943043,22:00:00.000,England,1,2,Final,-1,0,0,0,0,0,0,0,1,0,0,0
